@@ -1,0 +1,37 @@
+name: Daily Horoscope
+
+on:
+  schedule:
+    - cron: '0 13 * * *'  # 8:00 AM Central time daily
+  workflow_dispatch:        # allows manual trigger from GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic requests
+
+      - name: Generate horoscope
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python generate.py
+
+      - name: Deploy to GitHub Pages
+        run: |
+          git config user.name "horoscope-bot"
+          git config user.email "bot@horoscope"
+          git add index.html
+          git commit -m "Daily horoscope $(date +'%Y-%m-%d')" || echo "No changes"
+          git push
