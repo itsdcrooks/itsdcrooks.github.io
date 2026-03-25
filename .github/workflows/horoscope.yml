@@ -32,6 +32,6 @@ jobs:
         run: |
           git config user.name "horoscope-bot"
           git config user.email "bot@horoscope"
-          git add index.html
+          git add index.html used_images.json
           git commit -m "Daily horoscope $(date +'%Y-%m-%d')" || echo "No changes"
           git push
