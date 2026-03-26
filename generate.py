@@ -245,7 +245,9 @@ def generate_horoscope(planet_data, images):
     vedic_img_list = ", ".join(images.get('vedic', []))
 
     def fmt_desc(d):
-        return f"URL: {d['url']} | Mood: {d['mood']} | Subjects: {', '.join(d['subjects'][:3])} | Description: {d['description'][:120]}"
+        subj = ', '.join(d['subjects'][:2]) if d['subjects'] else 'unknown'
+        desc = d['description'][:80] if d['description'] else ''
+        return f"{d['mood']} | {subj} | {desc}"
 
     hero_info = fmt_desc(images['hero_desc'])
     atm_info = "\n".join([f"  Card {i+1}: {fmt_desc(d)}" for i, d in enumerate(images['atm_desc'])])
@@ -381,7 +383,7 @@ Output ONLY the complete HTML document. Nothing else.
             "max_tokens": 16000,
             "messages": [{"role": "user", "content": prompt}],
         },
-        timeout=180,
+        timeout=300,
     )
     if not response.ok:
         print(f"API Error {response.status_code}: {response.text[:500]}")
