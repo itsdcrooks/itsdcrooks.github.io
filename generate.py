@@ -224,17 +224,29 @@ def pick_images():
 
 def get_planet_positions():
     today = datetime.now()
-    try:
-        r = requests.get(
-            "https://astrolibrary.org/current-planets/",
-            timeout=10,
-            headers={"User-Agent": "Mozilla/5.0"}
-        )
-        if r.ok and len(r.text) > 500:
-            return r.text[:3000]
-    except Exception:
-        pass
-    return f"Date: {today.strftime('%B %d, %Y')}. Use your knowledge of current planetary positions."
+    date_str = today.strftime("%B %d, %Y")
+    day_name = today.strftime("%A")
+
+    # Try multiple sources for current planetary data
+    sources = [
+        f"https://cafeastrology.com/events/{today.strftime('%B').lower()}-{today.day}-{today.year}/",
+        "https://astro.com/swisseph/swepha_e.htm",
+    ]
+
+    for url in sources:
+        try:
+            r = requests.get(url, timeout=12, headers={"User-Agent": "Mozilla/5.0"})
+            if r.ok and len(r.text) > 500:
+                # Return truncated text with date header
+                return f"SOURCE DATE: {date_str} ({day_name})\n\n{r.text[:2500]}"
+        except Exception:
+            continue
+
+    # Fallback — give the model the exact date and instruct it clearly
+    return f"""Today is {date_str}, {day_name}.
+Use your knowledge of current planetary positions for this exact date.
+Be specific about which sign each planet is in, any retrogrades, and key aspects active today.
+Do NOT use yesterday's or a generic date's positions — this reading is specifically for {date_str}."""
 
 
 def generate_horoscope(planet_data, images):
@@ -255,7 +267,7 @@ def generate_horoscope(planet_data, images):
     closing_info = "\n".join([f"  Card {i+1}: {fmt_desc(d)}" for i, d in enumerate(images['closing_desc'])])
     vedic_info = "\n".join([f"  Card {i+1}: {fmt_desc(d)}" for i, d in enumerate(images['vedic_desc'])])
 
-    prompt = f"""You are generating a daily personal horoscope for Daniel — Licensed Professional Counselor Associate, entrepreneur, and integrative thinker. Today is {date_str}.
+    prompt = f"""You are generating a daily personal horoscope for Daniel — Licensed Professional Counselor Associate, entrepreneur, and integrative thinker. Today is {date_str} ({day_name}). THIS READING IS SPECIFICALLY FOR {date_str} — do not reuse content from any previous date.
 
 WESTERN NATAL CHART:
 {WESTERN_CHART}
