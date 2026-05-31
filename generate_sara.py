@@ -134,20 +134,34 @@ def compute_transits(now_utc: datetime) -> dict:
 
 
 # ---------- IMAGES ----------
+def _image_id(img) -> str:
+    """Get a stable identifier for an image dict, trying multiple field names."""
+    if isinstance(img, dict):
+        for key in ("id", "image_id", "filename", "file", "name", "url", "src", "path"):
+            v = img.get(key)
+            if v:
+                return str(v)
+        import hashlib
+        return hashlib.md5(
+            json.dumps(img, sort_keys=True, default=str).encode()
+        ).hexdigest()[:12]
+    return str(img)
+
+
 def _normalize_catalogue(raw):
     """Return a list of image dicts with an 'id' field, regardless of source shape."""
     if isinstance(raw, list):
         out = []
         for item in raw:
             if isinstance(item, dict):
-                out.append(item)
+                d = dict(item)
+                d.setdefault("id", _image_id(d))
+                out.append(d)
         return out
     if isinstance(raw, dict):
-        # If it looks like {meta..., "images": [...]} or {meta..., "images": {...}}
         for key in ("images", "catalogue", "catalog", "items", "data"):
             if key in raw:
                 return _normalize_catalogue(raw[key])
-        # Otherwise treat as {id: {...}}
         out = []
         for img_id, val in raw.items():
             if isinstance(val, dict):
@@ -181,7 +195,7 @@ def select_images(catalogue, used: dict, today: str) -> dict:
             continue
         choice = pool[abs(hash(today + slot)) % len(pool)]
         selections[slot] = choice
-        used[choice["id"]] = today
+        used[choice.get("id") or _image_id(choice)] = today
     return selections
 
 # ---------- PROMPT ----------
