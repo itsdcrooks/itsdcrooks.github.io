@@ -274,14 +274,12 @@ def call_anthropic(prompt: str) -> str:
 def send_email(html: str, subject: str) -> None:
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
-    msg["From"] = os.environ["SMTP_USER"]
+    msg["From"] = os.environ["GMAIL_ADDRESS"]
     msg["To"] = os.environ["SARA_EMAIL"]
     msg.attach(MIMEText(html, "html"))
     ctx = ssl.create_default_context()
-    with smtplib.SMTP_SSL(
-        os.environ["SMTP_HOST"], int(os.environ.get("SMTP_PORT") or "465"), context=ctx
-    ) as s:
-        s.login(os.environ["SMTP_USER"], os.environ["SMTP_PASS"])
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ctx) as s:
+        s.login(os.environ["GMAIL_ADDRESS"], os.environ["GMAIL_APP_PASSWORD"])
         s.send_message(msg)
 
 
