@@ -279,7 +279,7 @@ def send_email(html: str, subject: str) -> None:
     msg.attach(MIMEText(html, "html"))
     ctx = ssl.create_default_context()
     with smtplib.SMTP_SSL(
-        os.environ["SMTP_HOST"], int(os.environ.get("SMTP_PORT", "465")), context=ctx
+        os.environ["SMTP_HOST"], int(os.environ.get("SMTP_PORT") or "465"), context=ctx
     ) as s:
         s.login(os.environ["SMTP_USER"], os.environ["SMTP_PASS"])
         s.send_message(msg)
