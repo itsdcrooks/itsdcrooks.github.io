@@ -134,7 +134,32 @@ def compute_transits(now_utc: datetime) -> dict:
 
 
 # ---------- IMAGES ----------
-def select_images(catalogue: list, used: dict, today: str) -> dict:
+def _normalize_catalogue(raw):
+    """Return a list of image dicts with an 'id' field, regardless of source shape."""
+    if isinstance(raw, list):
+        out = []
+        for item in raw:
+            if isinstance(item, dict):
+                out.append(item)
+        return out
+    if isinstance(raw, dict):
+        # If it looks like {meta..., "images": [...]} or {meta..., "images": {...}}
+        for key in ("images", "catalogue", "catalog", "items", "data"):
+            if key in raw:
+                return _normalize_catalogue(raw[key])
+        # Otherwise treat as {id: {...}}
+        out = []
+        for img_id, val in raw.items():
+            if isinstance(val, dict):
+                v = dict(val)
+                v.setdefault("id", img_id)
+                out.append(v)
+        return out
+    return []
+
+
+def select_images(catalogue, used: dict, today: str) -> dict:
+    images = _normalize_catalogue(catalogue)
     slots = ["hero", "sensual", "devotional", "botanical", "transitional", "closing"]
     today_dt = datetime.strptime(today, "%Y-%m-%d")
     recent = set()
@@ -147,18 +172,17 @@ def select_images(catalogue: list, used: dict, today: str) -> dict:
     selections = {}
     for slot in slots:
         pool = [
-            img for img in catalogue
+            img for img in images
             if slot in img.get("suitable_for", []) and img.get("id") not in recent
         ]
         if not pool:
-            pool = [img for img in catalogue if slot in img.get("suitable_for", [])]
+            pool = [img for img in images if slot in img.get("suitable_for", [])]
         if not pool:
             continue
         choice = pool[abs(hash(today + slot)) % len(pool)]
         selections[slot] = choice
         used[choice["id"]] = today
     return selections
-
 
 # ---------- PROMPT ----------
 def build_prompt(local_now: datetime, transits: dict, flame: tuple, images: dict) -> str:
