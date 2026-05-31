@@ -2,14 +2,12 @@ name: daily-horoscope-sara
 
 on:
   schedule:
-    # 13:00 UTC = 7:00 AM CST / 8:00 AM CDT — same cadence as Daniel's
     - cron: "0 13 * * *"
-  workflow_dispatch:  # manual run from the Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
 
-# Prevent Sara's job and Daniel's job from pushing at the same instant
 concurrency:
   group: daily-push
   cancel-in-progress: false
@@ -31,15 +29,15 @@ jobs:
 
       - name: Generate and send Sara's horoscope
         env:
-          ANTHROPIC_API_KEY:   ${{ secrets.ANTHROPIC_API_KEY }}
-          GMAIL_ADDRESS:       ${{ secrets.GMAIL_ADDRESS }}
-          GMAIL_APP_PASSWORD:  ${{ secrets.GMAIL_APP_PASSWORD }}
-          SARA_EMAIL:          ${{ secrets.SARA_EMAIL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          SARA_EMAIL: ${{ secrets.SARA_EMAIL }}
         run: python generate_sara.py
 
       - name: Commit updated files
         run: |
-          git config user.name  "horoscope-bot"
+          git config user.name "horoscope-bot"
           git config user.email "horoscope-bot@users.noreply.github.com"
           git pull --rebase origin main || true
           git add docs/sara/index.html used_images_sara.json
