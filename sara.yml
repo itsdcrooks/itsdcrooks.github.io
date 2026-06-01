@@ -25,7 +25,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests
+        run: python -m pip install requests
 
       - name: Generate and send Sara's horoscope
         env:
