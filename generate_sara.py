@@ -396,10 +396,44 @@ def main():
     planet_data = get_planet_positions()
     print("Generating with Claude (Western + Vedic)...")
     html = generate_horoscope(planet_data, images)
+
+    # Write to sara/ (where GitHub Pages serves Sara's page from)
     print("Saving sara/index.html...")
     os.makedirs("sara", exist_ok=True)
     with open("sara/index.html", "w") as f:
         f.write(html)
+
+    # Also write to docs/sara/ so the workflow's existing git add line (if it
+    # still references that path) finds the file and doesn't fail.
+    print("Saving docs/sara/index.html (compatibility)...")
+    os.makedirs("docs/sara", exist_ok=True)
+    with open("docs/sara/index.html", "w") as f:
+        f.write(html)
+
+    # Commit and push from inside the script so we don't depend on the
+    # workflow's commit step (which has been brittle).
+    print("Committing and pushing changes...")
+    try:
+        import subprocess
+        subprocess.run(["git", "config", "user.name", "horoscope-bot"], check=False)
+        subprocess.run(
+            ["git", "config", "user.email", "horoscope-bot@users.noreply.github.com"],
+            check=False,
+        )
+        subprocess.run(["git", "add", "sara/index.html", "docs/sara/index.html",
+                        "used_images_sara.json"], check=False)
+        # If there's nothing to commit, this returns non-zero and we just skip.
+        diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
+        if diff.returncode != 0:
+            today = datetime.now().strftime("%Y-%m-%d")
+            subprocess.run(["git", "commit", "-m", f"sara: {today}"], check=False)
+            subprocess.run(["git", "push"], check=False)
+            print("✓ Pushed.")
+        else:
+            print("Nothing new to commit.")
+    except Exception as e:
+        print(f"Git step failed (non-fatal): {e}")
+
     print("Sending email...")
     send_email(GITHUB_PAGES_URL)
     print("✓ Done!")
