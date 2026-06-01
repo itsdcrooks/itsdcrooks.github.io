@@ -25,7 +25,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install anthropic pyswisseph
+        run: pip install requests
 
       - name: Generate and send Sara's horoscope
         env:
@@ -33,18 +33,13 @@ jobs:
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           SARA_EMAIL: ${{ secrets.SARA_EMAIL }}
-        run: |
-          echo "GMAIL_ADDRESS length: ${#GMAIL_ADDRESS}"
-          echo "GMAIL_APP_PASSWORD length: ${#GMAIL_APP_PASSWORD}"
-          echo "ANTHROPIC_API_KEY length: ${#ANTHROPIC_API_KEY}"
-          echo "SARA_EMAIL length: ${#SARA_EMAIL}"
-          python generate_sara.py
+        run: python generate_sara.py
 
       - name: Commit updated files
         run: |
           git config user.name "horoscope-bot"
           git config user.email "horoscope-bot@users.noreply.github.com"
           git pull --rebase origin main || true
-          git add docs/sara/index.html used_images_sara.json
+          git add sara/index.html used_images_sara.json
           git diff --cached --quiet || git commit -m "sara: $(date -u +%Y-%m-%d)"
           git push
