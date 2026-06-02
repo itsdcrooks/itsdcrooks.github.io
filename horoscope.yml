@@ -2,7 +2,7 @@ name: Daily Horoscope
 
 on:
   schedule:
-    - cron: '0 13 * * *'  # 8:00 AM Central time daily
+    - cron: '0 12 * * *'  # 7:00 AM Central time daily
   workflow_dispatch:        # allows manual trigger from GitHub
 
 jobs:
