@@ -1,0 +1,194 @@
+[
+  {"id": "neruda_cherry_trees", "text": "I want to do with you what spring does to cherry trees.", "author": "Pablo Neruda", "source": "Twenty Love Poems and a Song of Despair, Poem 14", "year": 1924, "register": "sensual"},
+  {"id": "neruda_dark_things", "text": "I love you as certain dark things are to be loved, in secret, between the shadow and the soul.", "author": "Pablo Neruda", "source": "One Hundred Love Sonnets, Sonnet XVII", "year": 1959, "register": "sensual"},
+  {"id": "neruda_without_knowing", "text": "I love you without knowing how, or when, or from where.", "author": "Pablo Neruda", "source": "One Hundred Love Sonnets, Sonnet XVII", "year": 1959, "register": "sensual"},
+  {"id": "neruda_salt_rose", "text": "I do not love you as if you were salt-rose, or topaz, or the arrow of carnations the fire shoots off.", "author": "Pablo Neruda", "source": "One Hundred Love Sonnets, Sonnet XVII", "year": 1959, "register": "sensual"},
+  {"id": "neruda_saddest_lines", "text": "Tonight I can write the saddest lines.", "author": "Pablo Neruda", "source": "Twenty Love Poems and a Song of Despair, Poem 20", "year": 1924, "register": "lyric"},
+  {"id": "neruda_love_short", "text": "Love is so short, forgetting is so long.", "author": "Pablo Neruda", "source": "Twenty Love Poems and a Song of Despair, Poem 20", "year": 1924, "register": "lyric"},
+  {"id": "neruda_poetry_arrived", "text": "And it was at that age... Poetry arrived in search of me.", "author": "Pablo Neruda", "source": "Memorial de Isla Negra, 'Poetry'", "year": 1964, "register": "lyric"},
+
+  {"id": "oliver_wild_geese_good", "text": "You do not have to be good. You do not have to walk on your knees for a hundred miles through the desert repenting.", "author": "Mary Oliver", "source": "Dream Work, 'Wild Geese'", "year": 1986, "register": "contemplative"},
+  {"id": "oliver_soft_animal", "text": "You only have to let the soft animal of your body love what it loves.", "author": "Mary Oliver", "source": "Dream Work, 'Wild Geese'", "year": 1986, "register": "sensual"},
+  {"id": "oliver_wild_precious", "text": "Tell me, what is it you plan to do with your one wild and precious life?", "author": "Mary Oliver", "source": "House of Light, 'The Summer Day'", "year": 1990, "register": "contemplative"},
+  {"id": "oliver_instructions", "text": "Instructions for living a life: Pay attention. Be astonished. Tell about it.", "author": "Mary Oliver", "source": "Red Bird, 'Sometimes'", "year": 2008, "register": "contemplative"},
+  {"id": "oliver_box_darkness", "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this, too, was a gift.", "author": "Mary Oliver", "source": "Thirst, 'The Uses of Sorrow'", "year": 2006, "register": "contemplative"},
+  {"id": "oliver_when_death_comes", "text": "When it's over, I want to say: all my life I was a bride married to amazement.", "author": "Mary Oliver", "source": "New and Selected Poems, 'When Death Comes'", "year": 1992, "register": "contemplative"},
+  {"id": "oliver_attention_devotion", "text": "Attention is the beginning of devotion.", "author": "Mary Oliver", "source": "Upstream", "year": 2016, "register": "devotional"},
+  {"id": "oliver_visit_world", "text": "I don't want to end up simply having visited this world.", "author": "Mary Oliver", "source": "New and Selected Poems, 'When Death Comes'", "year": 1992, "register": "contemplative"},
+
+  {"id": "rilke_love_questions", "text": "Be patient toward all that is unsolved in your heart and try to love the questions themselves.", "author": "Rainer Maria Rilke", "source": "Letters to a Young Poet, Letter Four", "year": 1903, "register": "contemplative"},
+  {"id": "rilke_live_questions", "text": "Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer.", "author": "Rainer Maria Rilke", "source": "Letters to a Young Poet, Letter Four", "year": 1903, "register": "contemplative"},
+  {"id": "rilke_letting_go", "text": "We need, in love, to practice only this: letting each other go.", "author": "Rainer Maria Rilke", "source": "Requiem for a Friend", "year": 1908, "register": "contemplative"},
+  {"id": "rilke_beauty_terror", "text": "Beauty is nothing but the beginning of terror, which we are still just able to endure.", "author": "Rainer Maria Rilke", "source": "Duino Elegies, First Elegy", "year": 1923, "register": "lyric"},
+  {"id": "rilke_dragons", "text": "Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.", "author": "Rainer Maria Rilke", "source": "Letters to a Young Poet, Letter Eight", "year": 1904, "register": "contemplative"},
+
+  {"id": "cummings_carry_heart", "text": "i carry your heart with me (i carry it in my heart)", "author": "E. E. Cummings", "source": "95 Poems, 'i carry your heart with me'", "year": 1952, "register": "sensual"},
+  {"id": "cummings_like_body", "text": "i like my body when it is with your body. It is so quite new a thing.", "author": "E. E. Cummings", "source": "Tulips and Chimneys, '[i like my body when it is with your]'", "year": 1923, "register": "sensual"},
+
+  {"id": "whitman_multitudes", "text": "I am large, I contain multitudes.", "author": "Walt Whitman", "source": "Song of Myself, Section 51", "year": 1855, "register": "lyric"},
+  {"id": "whitman_celebrate", "text": "I celebrate myself, and sing myself, and what I assume you shall assume.", "author": "Walt Whitman", "source": "Song of Myself, Section 1", "year": 1855, "register": "lyric"},
+
+  {"id": "yeats_tread_softly", "text": "Tread softly because you tread on my dreams.", "author": "W. B. Yeats", "source": "The Wind Among the Reeds, 'Aedh Wishes for the Cloths of Heaven'", "year": 1899, "register": "lyric"},
+  {"id": "yeats_spread_dreams", "text": "I have spread my dreams under your feet.", "author": "W. B. Yeats", "source": "The Wind Among the Reeds, 'Aedh Wishes for the Cloths of Heaven'", "year": 1899, "register": "lyric"},
+
+  {"id": "lorde_self_preservation", "text": "Caring for myself is not self-indulgence, it is self-preservation, and that is an act of political warfare.", "author": "Audre Lorde", "source": "A Burst of Light", "year": 1988, "register": "contemplative"},
+  {"id": "lorde_powerful", "text": "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.", "author": "Audre Lorde", "source": "Sister Outsider", "year": 1984, "register": "contemplative"},
+  {"id": "lorde_silence", "text": "Your silence will not protect you.", "author": "Audre Lorde", "source": "Sister Outsider, 'The Transformation of Silence into Language and Action'", "year": 1977, "register": "contemplative"},
+  {"id": "lorde_erotic_chaos", "text": "The erotic is a measure between the beginnings of our sense of self and the chaos of our strongest feelings.", "author": "Audre Lorde", "source": "Sister Outsider, 'Uses of the Erotic'", "year": 1978, "register": "sensual"},
+
+  {"id": "plath_i_am", "text": "I am, I am, I am.", "author": "Sylvia Plath", "source": "The Bell Jar", "year": 1963, "register": "lyric"},
+  {"id": "plath_red_hair", "text": "Out of the ash I rise with my red hair, and I eat men like air.", "author": "Sylvia Plath", "source": "Ariel, 'Lady Lazarus'", "year": 1965, "register": "lyric"},
+
+  {"id": "sappho_remember_us", "text": "Someone will remember us, I say, even in another time.", "author": "Sappho", "source": "Fragment 147, trans. Anne Carson", "year": -600, "register": "lyric"},
+
+  {"id": "lorca_green", "text": "Green, how I want you green. Green wind. Green branches.", "author": "Federico García Lorca", "source": "Gypsy Ballads, 'Romance Sonámbulo'", "year": 1928, "register": "lyric"},
+
+  {"id": "tagore_mind_fearless", "text": "Where the mind is without fear and the head is held high.", "author": "Rabindranath Tagore", "source": "Gitanjali, Poem 35", "year": 1910, "register": "devotional"},
+  {"id": "tagore_fearless_facing", "text": "Let me not pray to be sheltered from dangers, but to be fearless in facing them.", "author": "Rabindranath Tagore", "source": "Fruit-Gathering", "year": 1916, "register": "devotional"},
+
+  {"id": "szymborska_nothing_twice", "text": "Nothing can ever happen twice. In consequence, the sorry fact is that we arrive here improvised and leave without the chance to practice.", "author": "Wisława Szymborska", "source": "Calling Out to Yeti, 'Nothing Twice', trans. Stanisław Barańczak & Clare Cavanagh", "year": 1957, "register": "contemplative"},
+
+  {"id": "eliot_arrive_where", "text": "We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time.", "author": "T. S. Eliot", "source": "Four Quartets, 'Little Gidding'", "year": 1942, "register": "contemplative"},
+  {"id": "eliot_april", "text": "April is the cruelest month, breeding lilacs out of the dead land.", "author": "T. S. Eliot", "source": "The Waste Land", "year": 1922, "register": "lyric"},
+  {"id": "eliot_end_beginning", "text": "What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.", "author": "T. S. Eliot", "source": "Four Quartets, 'Little Gidding'", "year": 1942, "register": "contemplative"},
+
+  {"id": "rumi_field", "text": "Out beyond ideas of wrongdoing and rightdoing, there is a field. I'll meet you there.", "author": "Rumi", "source": "The Essential Rumi, trans. Coleman Barks", "year": 1995, "register": "devotional"},
+  {"id": "rumi_seeking_you", "text": "What you seek is seeking you.", "author": "Rumi", "source": "The Essential Rumi, trans. Coleman Barks", "year": 1995, "register": "devotional"},
+  {"id": "rumi_lovers_in", "text": "Lovers don't finally meet somewhere. They're in each other all along.", "author": "Rumi", "source": "The Essential Rumi, trans. Coleman Barks", "year": 1995, "register": "sensual"},
+  {"id": "rumi_first_love", "text": "The minute I heard my first love story, I started looking for you, not knowing how blind that was.", "author": "Rumi", "source": "Open Secret, trans. John Moyne & Coleman Barks", "year": 1984, "register": "sensual"},
+
+  {"id": "nin_henry_strength", "text": "I, with a deeper instinct, choose a man who compels my strength, who makes enormous demands on me, who does not doubt my courage or my toughness.", "author": "Anaïs Nin", "source": "Henry and June", "year": 1986, "register": "sensual"},
+
+  {"id": "kinnell_wait", "text": "Wait, for now. Distrust everything if you have to. But trust the hours.", "author": "Galway Kinnell", "source": "Mortal Acts, Mortal Words, 'Wait'", "year": 1980, "register": "contemplative"},
+
+  {"id": "kunitz_layers", "text": "I have walked through many lives, some of them my own.", "author": "Stanley Kunitz", "source": "Passing Through, 'The Layers'", "year": 1995, "register": "contemplative"},
+
+  {"id": "rich_honorable", "text": "An honorable human relationship is a process, delicate, violent, often terrifying to both persons involved, of refining the truths they can tell each other.", "author": "Adrienne Rich", "source": "On Lies, Secrets, and Silence, 'Women and Honor'", "year": 1979, "register": "contemplative"},
+  {"id": "rich_lying_silence", "text": "Lying is done with words, and also with silence.", "author": "Adrienne Rich", "source": "On Lies, Secrets, and Silence, 'Women and Honor'", "year": 1979, "register": "contemplative"},
+
+  {"id": "hass_loss", "text": "All the new thinking is about loss. In this it resembles all the old thinking.", "author": "Robert Hass", "source": "Praise, 'Meditation at Lagunitas'", "year": 1979, "register": "contemplative"},
+
+  {"id": "strand_absence", "text": "In a field I am the absence of field.", "author": "Mark Strand", "source": "Reasons for Moving, 'Keeping Things Whole'", "year": 1968, "register": "lyric"},
+
+  {"id": "gluck_nostos", "text": "We look at the world once, in childhood. The rest is memory.", "author": "Louise Glück", "source": "Meadowlands, 'Nostos'", "year": 1996, "register": "contemplative"},
+
+  {"id": "frost_road", "text": "Two roads diverged in a wood, and I— I took the one less traveled by, and that has made all the difference.", "author": "Robert Frost", "source": "Mountain Interval, 'The Road Not Taken'", "year": 1916, "register": "lyric"},
+
+  {"id": "angelou_untold", "text": "There is no greater agony than bearing an untold story inside you.", "author": "Maya Angelou", "source": "I Know Why the Caged Bird Sings", "year": 1969, "register": "contemplative"},
+
+  {"id": "morrison_fly", "text": "If you wanna fly, you got to give up the shit that weighs you down.", "author": "Toni Morrison", "source": "Song of Solomon", "year": 1977, "register": "contemplative"},
+
+  {"id": "gita_work_fruit", "text": "You have the right to work, but never to the fruit of work.", "author": "Krishna", "source": "Bhagavad Gita 2.47, trans. Eknath Easwaran", "year": -400, "register": "vedic"},
+  {"id": "gita_no_effort_wasted", "text": "On this path no effort is wasted, no gain is ever reversed; even a little of this practice will shelter you from great sorrow.", "author": "Krishna", "source": "Bhagavad Gita 2.40, trans. Eknath Easwaran", "year": -400, "register": "vedic"},
+  {"id": "gita_steady_lamp", "text": "When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.", "author": "Krishna", "source": "Bhagavad Gita 6.19, trans. Eknath Easwaran", "year": -400, "register": "vedic"},
+
+  {"id": "upanishad_lead_me", "text": "From the unreal lead me to the real. From darkness lead me to light. From death lead me to immortality.", "author": "Brihadaranyaka Upanishad", "source": "Brihadaranyaka Upanishad 1.3.28, trans. Eknath Easwaran", "year": -700, "register": "vedic"},
+
+  {"id": "clifton_celebrate", "text": "won't you celebrate with me what i have shaped into a kind of life?", "author": "Lucille Clifton", "source": "The Book of Light, 'won't you celebrate with me'", "year": 1993, "register": "contemplative"},
+
+  {"id": "nye_kindness", "text": "Before you know what kindness really is you must lose things, feel the future dissolve in a moment like salt in a weakened broth.", "author": "Naomi Shihab Nye", "source": "Words Under the Words, 'Kindness'", "year": 1995, "register": "contemplative"},
+
+  {"id": "gilbert_risk_delight", "text": "We must risk delight. We can do without pleasure, but not delight. Not enjoyment.", "author": "Jack Gilbert", "source": "Refusing Heaven, 'A Brief for the Defense'", "year": 2005, "register": "contemplative"},
+  {"id": "gilbert_stubbornness", "text": "We must have the stubbornness to accept our gladness in the ruthless furnace of this world.", "author": "Jack Gilbert", "source": "Refusing Heaven, 'A Brief for the Defense'", "year": 2005, "register": "contemplative"},
+
+  {"id": "berry_real_work", "text": "It may be that when we no longer know what to do, we have come to our real work, and that when we no longer know which way to go, we have begun our real journey.", "author": "Wendell Berry", "source": "Standing by Words", "year": 1983, "register": "contemplative"},
+  {"id": "berry_peace_wild", "text": "I come into the peace of wild things who do not tax their lives with forethought of grief.", "author": "Wendell Berry", "source": "Openings, 'The Peace of Wild Things'", "year": 1968, "register": "contemplative"},
+
+  {"id": "gibran_shell", "text": "Your pain is the breaking of the shell that encloses your understanding.", "author": "Kahlil Gibran", "source": "The Prophet, 'On Pain'", "year": 1923, "register": "contemplative"},
+  {"id": "gibran_bond_love", "text": "Love one another, but make not a bond of love. Let it rather be a moving sea between the shores of your souls.", "author": "Kahlil Gibran", "source": "The Prophet, 'On Marriage'", "year": 1923, "register": "sensual"},
+  {"id": "gibran_separation", "text": "Ever has it been that love knows not its own depth until the hour of separation.", "author": "Kahlil Gibran", "source": "The Prophet, 'The Farewell'", "year": 1923, "register": "contemplative"},
+  {"id": "gibran_work_love", "text": "Work is love made visible.", "author": "Kahlil Gibran", "source": "The Prophet, 'On Work'", "year": 1923, "register": "devotional"},
+
+  {"id": "dickinson_hope_feathers", "text": "Hope is the thing with feathers that perches in the soul.", "author": "Emily Dickinson", "source": "Poem 314", "year": 1861, "register": "lyric"},
+  {"id": "dickinson_possibility", "text": "I dwell in Possibility — a fairer House than Prose.", "author": "Emily Dickinson", "source": "Poem 466", "year": 1862, "register": "lyric"},
+  {"id": "dickinson_certain_slant", "text": "There's a certain Slant of light, winter afternoons, that oppresses, like the heft of cathedral tunes.", "author": "Emily Dickinson", "source": "Poem 320", "year": 1861, "register": "lyric"},
+
+  {"id": "thoreau_quiet_desperation", "text": "The mass of men lead lives of quiet desperation.", "author": "Henry David Thoreau", "source": "Walden, 'Economy'", "year": 1854, "register": "contemplative"},
+  {"id": "thoreau_direction_dreams", "text": "Go confidently in the direction of your dreams. Live the life you have imagined.", "author": "Henry David Thoreau", "source": "Walden, 'Conclusion'", "year": 1854, "register": "contemplative"},
+
+  {"id": "milosz_dedication", "text": "What is poetry which does not save nations or people?", "author": "Czesław Miłosz", "source": "Rescue, 'Dedication', trans. Czesław Miłosz", "year": 1945, "register": "contemplative"},
+
+  {"id": "arendt_forgiveness", "text": "Forgiveness is the only reaction which does not merely re-act but acts anew and unexpectedly.", "author": "Hannah Arendt", "source": "The Human Condition", "year": 1958, "register": "contemplative"},
+
+  {"id": "chodron_sky", "text": "You are the sky. Everything else — it's just the weather.", "author": "Pema Chödrön", "source": "When Things Fall Apart", "year": 1997, "register": "devotional"},
+
+  {"id": "carson_husband_first", "text": "It is what we have lost most beautifully that we hold most beautifully.", "author": "Anne Carson", "source": "The Beauty of the Husband", "year": 2001, "register": "lyric"},
+
+  {"id": "doty_atlantis_dog", "text": "What is description, after all, but encoded desire?", "author": "Mark Doty", "source": "Atlantis, 'Description'", "year": 1995, "register": "lyric"},
+
+  {"id": "olds_topography", "text": "I lay on him as if my body were the map of him.", "author": "Sharon Olds", "source": "The Wellspring, 'Topography'", "year": 1996, "register": "sensual"},
+
+  {"id": "howe_what_living", "text": "What you have heard is true. I was in his house that night.", "author": "Carolyn Forché", "source": "The Country Between Us, 'The Colonel'", "year": 1981, "register": "lyric"},
+
+  {"id": "merwin_separation", "text": "Your absence has gone through me like thread through a needle. Everything I do is stitched with its color.", "author": "W. S. Merwin", "source": "The Moving Target, 'Separation'", "year": 1963, "register": "lyric"},
+
+  {"id": "akhmatova_requiem", "text": "I am not one of those who left the land to the mercy of its enemies.", "author": "Anna Akhmatova", "source": "Requiem", "year": 1940, "register": "lyric"},
+
+  {"id": "tsvetaeva_wines", "text": "My poems, like precious wines, will have their turn.", "author": "Marina Tsvetaeva", "source": "Untitled (1913)", "year": 1913, "register": "lyric"},
+
+  {"id": "cavafy_ithaka", "text": "Keep Ithaka always in your mind. Arriving there is what you are destined for. But do not hurry the journey at all.", "author": "C. P. Cavafy", "source": "'Ithaka', trans. Edmund Keeley & Philip Sherrard", "year": 1911, "register": "contemplative"},
+
+  {"id": "milosz_so_little", "text": "So little I said. Short days. Short days. Short nights. Short years.", "author": "Czesław Miłosz", "source": "Provinces, 'So Little'", "year": 1991, "register": "contemplative"},
+
+  {"id": "blake_grain_sand", "text": "To see a World in a Grain of Sand and a Heaven in a Wild Flower, hold Infinity in the palm of your hand and Eternity in an hour.", "author": "William Blake", "source": "Auguries of Innocence", "year": 1803, "register": "devotional"},
+
+  {"id": "blake_marriage", "text": "The road of excess leads to the palace of wisdom.", "author": "William Blake", "source": "The Marriage of Heaven and Hell", "year": 1790, "register": "contemplative"},
+
+  {"id": "hopkins_pied", "text": "Glory be to God for dappled things — for skies of couple-colour as a brinded cow.", "author": "Gerard Manley Hopkins", "source": "Poems, 'Pied Beauty'", "year": 1877, "register": "devotional"},
+
+  {"id": "rumi_chickpea", "text": "When you eventually see through the veils to how things really are, you will keep saying again and again, this is certainly not like we thought it was.", "author": "Rumi", "source": "The Essential Rumi, trans. Coleman Barks", "year": 1995, "register": "devotional"},
+
+  {"id": "rumi_guest_house", "text": "This being human is a guest house. Every morning a new arrival.", "author": "Rumi", "source": "The Essential Rumi, 'The Guest House', trans. Coleman Barks", "year": 1995, "register": "devotional"},
+
+  {"id": "donne_no_man", "text": "No man is an island, entire of itself; every man is a piece of the continent, a part of the main.", "author": "John Donne", "source": "Devotions Upon Emergent Occasions, Meditation XVII", "year": 1624, "register": "contemplative"},
+
+  {"id": "shakespeare_sonnet_18", "text": "Shall I compare thee to a summer's day? Thou art more lovely and more temperate.", "author": "William Shakespeare", "source": "Sonnet 18", "year": 1609, "register": "sensual"},
+  {"id": "shakespeare_sonnet_116", "text": "Love is not love which alters when it alteration finds, or bends with the remover to remove.", "author": "William Shakespeare", "source": "Sonnet 116", "year": 1609, "register": "sensual"},
+
+  {"id": "keats_thing_of_beauty", "text": "A thing of beauty is a joy forever; its loveliness increases.", "author": "John Keats", "source": "Endymion, Book I", "year": 1818, "register": "lyric"},
+  {"id": "keats_negative_capability", "text": "I mean Negative Capability, that is, when a man is capable of being in uncertainties, mysteries, doubts.", "author": "John Keats", "source": "Letter to George and Tom Keats", "year": 1817, "register": "contemplative"},
+
+  {"id": "wilde_stars", "text": "We are all in the gutter, but some of us are looking at the stars.", "author": "Oscar Wilde", "source": "Lady Windermere's Fan", "year": 1892, "register": "contemplative"},
+
+  {"id": "thich_nhat_hanh_present", "text": "The present moment is filled with joy and happiness. If you are attentive, you will see it.", "author": "Thich Nhat Hanh", "source": "Peace Is Every Step", "year": 1991, "register": "devotional"},
+
+  {"id": "thich_nhat_hanh_cloud", "text": "If you are a poet, you will see clearly that there is a cloud floating in this sheet of paper.", "author": "Thich Nhat Hanh", "source": "The Heart of Understanding", "year": 1988, "register": "devotional"},
+
+  {"id": "lao_tzu_journey", "text": "A journey of a thousand miles begins with a single step.", "author": "Lao Tzu", "source": "Tao Te Ching, Chapter 64, trans. Stephen Mitchell", "year": -400, "register": "devotional"},
+
+  {"id": "lao_tzu_water", "text": "Nothing in the world is as soft and yielding as water. Yet for dissolving the hard and inflexible, nothing can surpass it.", "author": "Lao Tzu", "source": "Tao Te Ching, Chapter 78, trans. Stephen Mitchell", "year": -400, "register": "devotional"},
+
+  {"id": "kabir_breath", "text": "Are you looking for me? I am in the next seat.", "author": "Kabir", "source": "The Kabir Book, trans. Robert Bly", "year": 1977, "register": "devotional"},
+
+  {"id": "tagore_butterfly", "text": "The butterfly counts not months but moments, and has time enough.", "author": "Rabindranath Tagore", "source": "Stray Birds, no. 174", "year": 1916, "register": "lyric"},
+
+  {"id": "rumi_silence_ocean", "text": "Silence is the language of God; all else is poor translation.", "author": "Rumi", "source": "The Essential Rumi, trans. Coleman Barks", "year": 1995, "register": "devotional"},
+
+  {"id": "mirabai_dark_one", "text": "O my friends, what can you tell me of love, whose pathways are filled with strangeness?", "author": "Mirabai", "source": "Mirabai: Ecstatic Poems, trans. Jane Hirshfield", "year": 2004, "register": "devotional"},
+
+  {"id": "berry_dont_own", "text": "We don't have to live great lives, we just have to understand and survive the ones we've got.", "author": "Andre Dubus III", "source": "House of Sand and Fog", "year": 1999, "register": "contemplative"},
+
+  {"id": "olds_first_hour", "text": "The first hour was an hour of mercy.", "author": "Sharon Olds", "source": "The Father, 'The Glass'", "year": 1992, "register": "contemplative"},
+
+  {"id": "neruda_body_woman", "text": "Body of a woman, white hills, white thighs, you look like a world, lying in surrender.", "author": "Pablo Neruda", "source": "Twenty Love Poems and a Song of Despair, Poem 1", "year": 1924, "register": "sensual"},
+
+  {"id": "neruda_drunk_with_pines", "text": "Drunk with pines and long kisses, like summer I steer the fast sailboat of the roses, bent towards the death of the thin day.", "author": "Pablo Neruda", "source": "Twenty Love Poems and a Song of Despair, Poem 12", "year": 1924, "register": "sensual"},
+
+  {"id": "oliver_have_you_breathed", "text": "Listen, are you breathing just a little, and calling it a life?", "author": "Mary Oliver", "source": "West Wind, 'Have You Ever Tried to Enter the Long Black Branches?'", "year": 1997, "register": "contemplative"},
+
+  {"id": "kabir_swing", "text": "Between the conscious and the unconscious, the mind has put up a swing.", "author": "Kabir", "source": "The Kabir Book, trans. Robert Bly", "year": 1977, "register": "devotional"},
+
+  {"id": "auden_funeral_blues", "text": "He was my North, my South, my East and West, my working week and my Sunday rest.", "author": "W. H. Auden", "source": "Twelve Songs, 'Funeral Blues'", "year": 1938, "register": "lyric"},
+
+  {"id": "stevens_thirteen", "text": "I do not know which to prefer, the beauty of inflections or the beauty of innuendoes, the blackbird whistling or just after.", "author": "Wallace Stevens", "source": "Harmonium, 'Thirteen Ways of Looking at a Blackbird'", "year": 1923, "register": "lyric"},
+
+  {"id": "stevens_emperor", "text": "Let be be finale of seem.", "author": "Wallace Stevens", "source": "Harmonium, 'The Emperor of Ice-Cream'", "year": 1923, "register": "lyric"},
+
+  {"id": "ryokan_thief", "text": "The thief left it behind: the moon at my window.", "author": "Ryōkan", "source": "Dewdrops on a Lotus Leaf, trans. John Stevens", "year": 1993, "register": "devotional"},
+
+  {"id": "basho_old_pond", "text": "An old silent pond. A frog jumps into the pond— Splash! Silence again.", "author": "Matsuo Bashō", "source": "Haiku, trans. R. H. Blyth", "year": 1686, "register": "devotional"},
+
+  {"id": "snyder_riprap", "text": "Lay down these words before your mind like rocks. placed solid, by hands in choice of place.", "author": "Gary Snyder", "source": "Riprap and Cold Mountain Poems, 'Riprap'", "year": 1959, "register": "lyric"},
+
+  {"id": "bly_ant", "text": "How marvelous and sacred a wet leaf is, freshly grown!", "author": "Robert Bly", "source": "Silence in the Snowy Fields", "year": 1962, "register": "devotional"}
+]
