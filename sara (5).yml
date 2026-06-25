@@ -1,0 +1,39 @@
+name: Sara Horoscope
+
+on:
+  schedule:
+    # Fires at 06:00 UTC = 1:00 AM CDT (summer) / 12:00 AM CST (winter).
+    # Script generates immediately, then waits until 5:00 AM Central before sending email.
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run Sara horoscope generator
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          SARA_EMAIL: ${{ secrets.SARA_EMAIL }}
+        run: python generate_sara.py
+
+      - name: Commit and push outputs
+        run: |
+          git config user.name "horoscope-bot"
+          git config user.email "bot@horoscope"
+          git add docs/sara/index.html used_images_sara.json used_pools.json used_quotes_sara.json
+          git diff --cached --quiet || git commit -m "sara: $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main || true
+          git push || true
