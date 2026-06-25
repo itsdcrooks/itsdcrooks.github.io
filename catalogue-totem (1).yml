@@ -1,0 +1,23 @@
+name: Catalogue Totem
+
+on:
+  workflow_dispatch:
+
+jobs:
+  catalogue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run totem cataloguing
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python catalogue_totem.py
