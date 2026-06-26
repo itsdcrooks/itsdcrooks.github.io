@@ -22762,6 +22762,614 @@
         "hero"
       ],
       "url": "https://cdn.cosmos.so/ce607c46-5c43-4ac0-8959-dc1451ec9a23"
+    },
+    {
+      "description": "A grayscale photograph of a person's face and upper body in profile, head tilted back with eyes closed in an expression of vulnerability or surrender. The subject wears a light-colored garment visible at the neckline. The composition is cropped tightly, showing only the neck, jaw, and lower face against a blurred, textured background. The grain and soft focus create an intimate, almost cinematic quality. A horizontal band of lighter tone bisects the frame, dividing the darker background above from the lighter foreground below.",
+      "mood": "sensual",
+      "subjects": [
+        "human figure in profile",
+        "tilted head",
+        "vulnerability",
+        "grayscale portraiture"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/f821a61d-bba3-41f9-baf8-686a2d60940a"
+    },
+    {
+      "description": "A human arm extends diagonally across a muted teal-green background, palm open and facing upward in a gesture of offering or vulnerability. Delicate plant stems with dark seed pods or buds cluster at the fingertips and wrist, creating a subtle botanical element emerging from the skin. The photograph has a grainy, film-like quality with soft, diffused lighting that creates a melancholic, dreamy atmosphere. The composition is minimalist and intimate, emphasizing the gentle connection between the human body and nature.",
+      "mood": "tender",
+      "subjects": [
+        "human arm",
+        "open palm",
+        "seed pods",
+        "botanical growth",
+        "gesture of offering"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/680230b4-2182-4d05-84a5-2617769a73ba"
+    },
+    {
+      "description": "A nude female figure photographed from the side in a gracefully arched standing pose, head tilted back and body curved in a serpentine S-shape. The image is rendered in soft greyscale tones with high contrast between the illuminated skin and deep shadow areas. Shot against a pale, almost white background with visible grain and dust spots characteristic of vintage photography. The composition emphasizes the body's curves and elongated silhouette, creating an ethereal quality through the interplay of light and shadow.",
+      "mood": "sensual",
+      "subjects": [
+        "female nude figure",
+        "arched pose",
+        "vintage photography",
+        "shadow and light"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/1d0b67b2-09bd-4bee-9441-c5c85b2dfed0"
+    },
+    {
+      "description": "A silhouetted human figure stands in the center of a dimly lit interior space, positioned against a lighter wall or doorway. The figure's posture is solitary and still, with hands at their sides. The composition reveals a narrow corridor or passageway with illuminated rectangular windows or openings on the right side that create bright geometric shapes against deep shadows. The photograph is high-contrast black and white with grainy, atmospheric quality; the mood is introspective and nocturnal, suggesting a moment of solitude in an empty café interior.",
+      "mood": "contemplative",
+      "subjects": [
+        "solitary figure",
+        "interior corridor",
+        "geometric light",
+        "shadows",
+        "nighttime space"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/e8d0b33f-19f2-4841-9baa-571e41c94260"
+    },
+    {
+      "description": "A human figure in profile, illuminated from the side against a dark background. The body is rendered in soft, pale tones that emerge from shadow, with the head tilted back slightly and shoulders visible. The lighting is dramatic and minimal, creating a chiaroscuro effect where the form glows while the surrounding space dissolves into darkness. The image has a grainy, heavily textured quality that obscures fine details and creates an dreamlike, almost sculptural atmosphere.",
+      "mood": "ethereal",
+      "subjects": [
+        "human figure",
+        "profile silhouette",
+        "chiaroscuro lighting",
+        "emerging form"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/d1f8d9d2-4342-4ce8-8175-fc615149f228"
+    },
+    {
+      "description": "A human hand holding a magnifying glass, examining something closely in sharp profile against a blurred dark background. The photograph is grainy black and white, shot in close-up with shallow depth of field. The magnifying lens creates a circular focal point in the composition. The mood is investigative and intimate, with soft bokeh lights in the upper background suggesting an interior or twilight setting. The grain and vintage quality give the image a dreamlike, mysterious quality.",
+      "mood": "contemplative",
+      "subjects": [
+        "hand",
+        "magnifying glass",
+        "close examination",
+        "investigation"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/17d3214b-29a0-4a15-8793-467eb05e88e1"
+    },
+    {
+      "description": "A collage artwork combining archival photographs, vintage portraiture, and found imagery arranged on a white background. Central to the composition is a figure in green clothing with black tape across the torso, holding or wearing translucent fabric. Surrounding elements include black-and-white street scenes with ornate lampposts, a modernist apartment building, close-up portraits of two people in vintage dress, a landscape with dramatic clouds, an aerial view of geological formations in rust and orange tones, and various fragmented photographs suggesting themes of identity, obscurement, and memory. The palette shifts between stark monochrome, muted earth tones, and warm rust hues. The mood is introspective and fragmented, with deliberate censoring and layering suggesting concealment or reconstruction of narrative.",
+      "mood": "raw",
+      "subjects": [
+        "collage",
+        "vintage photographs",
+        "portrait",
+        "censored figure",
+        "architectural landscape",
+        "geological formations",
+        "identity"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/c3bbbdf0-3267-41eb-bc89-a34d1780d4f7"
+    },
+    {
+      "description": "Three black geometric shapes arranged vertically within a circular white halo against a dark grey background: a semi-circle at top, an almond or vesica piscis form in the middle, and a semi-circle at bottom. The shapes are rendered in pure black with soft charcoal shading creating a luminous glow around the composition. The overall effect is meditative and symmetrical, suggesting an abstract representation of cycles, duality, or celestial phases.",
+      "mood": "cosmic",
+      "subjects": [
+        "geometric shapes",
+        "circles and semi-circles",
+        "luminous halo",
+        "abstract composition"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/c32570a7-d3cc-462d-92ee-b4a4d5cd037e"
+    },
+    {
+      "description": "A possum or similar marsupial stands upright on its hind legs in dense forest undergrowth, its pale face and chest luminous against the dark, textured vegetation surrounding it. The animal's body is captured in stark black and white with high contrast, its fur appearing silvery where light catches it. The composition is intimate and close, with the creature positioned off-center among twisted branches and leaf litter, creating a sense of nocturnal discovery or surveillance.",
+      "mood": "raw",
+      "subjects": [
+        "possum",
+        "forest floor",
+        "nocturnal animal",
+        "night vision"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/a2e855dd-a271-461e-93c9-df3e22015bcf"
+    },
+    {
+      "description": "A human face in profile, mouth slightly parted, gazes toward two windows with pale yellow and white panes set into a dark architectural frame. The composition splits the image horizontally—the upper half shows the geometric window structure with clean lines and a green wall above, while the lower half is dominated by the person's face in warm, muted tones. The lighting is soft and introspective, creating a sense of looking inward while the eyes are directed outward. The mood is quiet and contemplative, with a vintage or layered photographic quality.",
+      "mood": "contemplative",
+      "subjects": [
+        "human face in profile",
+        "modernist windows",
+        "architectural framing",
+        "introspection"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/72988cd1-6f1f-46d5-88bc-0dd637398555"
+    },
+    {
+      "description": "A silhouetted human figure in profile facing right, wearing what appears to be a dark jacket or coat, shown from shoulders to head against a stark two-toned background of pale pink and cream. The composition is highly contrasted with the subject rendered almost entirely in black shadow, creating a dramatic backlit effect. The lighting suggests an interior setting with strong directional light, and the film stock shows visible grain and color shifts typical of vintage or experimental photography. The mood is introspective and moody, with the figure appearing to gaze or turn away.",
+      "mood": "contemplative",
+      "subjects": [
+        "silhouetted figure",
+        "human profile",
+        "shadow portraiture"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/c2d29d3b-9bb2-4003-a79b-d9b1911b62b0"
+    },
+    {
+      "description": "A hooded figure in dark robes stands against a pale, muted background, their form softly blurred and ethereal. The composition is vertical and frontal, with the figure's face obscured by shadow and the fabric of their hood. The grainy, low-contrast black-and-white photograph creates an dreamlike, ghostly quality, emphasizing mystery and obscured identity. The lighting is diffuse and shadowless, flattening the image into tones of grey and cream.",
+      "mood": "ethereal",
+      "subjects": [
+        "hooded figure",
+        "dark robes",
+        "shadow",
+        "obscured face"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/5907f183-0819-48c9-b0c0-fe751c6be347"
+    },
+    {
+      "description": "A partial solar eclipse captured against a cloudy sky, with the moon's dark silhouette overlapping the bright sun, creating a crescent of white light at the moon's edge. The sky is rendered in grayscale with dramatic cloud formations that obscure portions of the celestial event. The composition emphasizes the geometric relationship between the two celestial bodies during totality, with a muted, newsprint-like texture throughout.",
+      "mood": "cosmic",
+      "subjects": [
+        "solar eclipse",
+        "moon",
+        "sun",
+        "cloudy sky",
+        "celestial alignment"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/5ca91dcc-baf9-4d3e-8822-eee28e7db774"
+    },
+    {
+      "description": "A chambered nautilus shell rendered in grayscale graphite, positioned vertically against a cream background. The shell's spiral chambers are clearly visible, with the creature's tentacled arm extended upward in a graceful, reaching gesture. The illustration uses soft shading and stippled texture to create dimensional form, emphasizing the organic geometry of the shell's spiraling structure and the delicate musculature of the nautilus's body.",
+      "mood": "contemplative",
+      "subjects": [
+        "nautilus shell",
+        "spiral form",
+        "marine creature",
+        "natural geometry"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/15e3033e-7d26-4e4b-90ba-18319439dfb9"
+    },
+    {
+      "description": "An X-ray image of a human hand and forearm, displaying bone structure in grayscale against a dark background. The skeletal anatomy is rendered in white and pale gray tones, with the fingers extended and the wrist visible. The composition is frontal and direct, with clinical precision characteristic of radiographic imaging. The mood is ethereal yet grounded in scientific specificity.",
+      "mood": "ethereal",
+      "subjects": [
+        "human hand X-ray",
+        "skeletal anatomy",
+        "medical imaging"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/b934add1-3e87-4678-acbf-270413ce00db"
+    },
+    {
+      "description": "An abstract composition of two contrasting cosmic landscapes divided horizontally. The upper panel features a deep blue-black starfield with white celestial points and swirling nebula-like forms in cream and pale blue, with a prominent white crescent moon. The lower panel inverts the palette with a fiery red-orange ground dominated by molten, flowing forms in cream and white, suggesting volcanic or solar energy. Both panels contain organic, undulating shapes reminiscent of planetary surfaces or cosmic phenomena, with scattered luminous orbs throughout. The overall mood is dreamlike and visionary, rendered in warm and cool color blocks with soft, blended edges.",
+      "mood": "cosmic",
+      "subjects": [
+        "celestial landscape",
+        "moon",
+        "nebula",
+        "planetary forms",
+        "starfield",
+        "cosmic duality"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/435410cd-c27f-4870-baae-473c146bc4b4"
+    },
+    {
+      "description": "A murmuration of starlings in flight against a grey, overcast sky, their dark bodies creating dynamic patterns as they move in coordinated formation. The birds appear as silhouettes scattered across the frame, some clustered densely while others spread outward, creating an organic, flowing composition. The muted grey-green palette and soft, diffused lighting give the scene a contemplative, almost meditative quality, emphasizing the mysterious collective intelligence of the flock.",
+      "mood": "ethereal",
+      "subjects": [
+        "starling murmuration",
+        "birds in flight",
+        "grey sky",
+        "collective motion"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/1035c534-0636-40c4-834c-85efb7931c4c"
+    },
+    {
+      "description": "A double-exposed or superimposed black and white photograph showing two human faces merged together, creating a dreamlike composite image. The faces appear feminine with defined features, positioned front-facing with slightly different orientations that create a haunting, symmetrical effect. The lighting is high-contrast with stark whites and deep blacks, and the composition has a grainy, photographic quality suggesting vintage darkroom technique or early experimental cinema. The mood is introspective and otherworldly.",
+      "mood": "ethereal",
+      "subjects": [
+        "double-exposed faces",
+        "composite portrait",
+        "human duality"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/0b3b3335-d662-4152-86fe-b6744ae0e026"
+    },
+    {
+      "description": "A solitary human figure stands in silhouette on an expansive, barren landscape in the lower panel, facing away toward a distant horizon. The upper panel shows a dark silhouetted structure—possibly a building or monument—against a luminous, cloud-streaked sky. Both images are rendered in grainy, high-contrast black and white with a dreamy, distressed quality suggesting aged film or vintage photography. The composition emphasizes isolation, vastness, and contemplation, with cool, muted tones dominating the palette.",
+      "mood": "contemplative",
+      "subjects": [
+        "solitary figure",
+        "barren landscape",
+        "distant horizon",
+        "silhouette",
+        "abandoned structure"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/9c389823-be2c-427c-816f-d3636f41c2a5"
+    },
+    {
+      "description": "An abstract sculptural form made of curved, tubular grey concrete or stone elements interlocking and twisting in space. The organic, flowing shapes create hollow passages and voids that frame a bright white light source at the center, suggesting an opening or void. The composition is shot against a neutral sky and dark ground, with dramatic chiaroscuro lighting that emphasizes the smooth, undulating surfaces and deep shadows. The mood is monumental yet dreamlike, with a sense of passage and transformation through geometric abstraction.",
+      "mood": "architectural",
+      "subjects": [
+        "concrete sculpture",
+        "intertwining forms",
+        "void and light",
+        "modernist structure"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/4fc227e0-2535-4a87-87d8-845bc9b6e728"
+    },
+    {
+      "description": "A page from a printed book or manuscript featuring two distinct photographic or engraved images: on the left, a small interior scene showing figures in classical dress gathered in an ornate columned room; on the right, a larger atmospheric landscape photograph depicting silhouetted riders on horseback crossing an expansive misty field or plain, with minimal visibility and soft, diffused light. The composition uses negative space and a predominantly grayscale palette with cream and grey tones, creating a contemplative, nostalgic mood. Diagonal text runs through the center of the page, fragmentary and difficult to read completely.",
+      "mood": "contemplative",
+      "subjects": [
+        "landscape photography",
+        "mounted riders",
+        "classical interior scene",
+        "misty field",
+        "book page"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/968a0df5-f84e-4371-9a99-dee750bdd446"
+    },
+    {
+      "description": "A silhouetted human figure stands in profile against a large luminous circle on the left, facing toward the center of the composition. The background features geometric light formations including a segmented circular pattern and additional glowing spheres on the right side arranged vertically. The image is rendered in high-contrast black and white with a grainy, vintage quality suggesting experimental photography or film. The overall mood is otherworldly and meditative, with the figure appearing small and contemplative against the stark geometric light sources.",
+      "mood": "cosmic",
+      "subjects": [
+        "silhouetted figure",
+        "luminous circles",
+        "geometric light patterns",
+        "celestial spheres"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/a2876db7-68d5-4f16-a76a-14dbf8cea2e8"
+    },
+    {
+      "description": "Two human figures in silhouette against a light cream background, captured mid-motion in a dynamic pulling gesture. The figure on the left, rendered in solid black shadow, pulls forcefully while the figure on the right, shown in grayscale halftone, leans back in resistance or surrender. The composition is energetic and tense, with the blurred, grainy texture suggesting movement and instability. The high-contrast monochromatic palette and diffused lighting create a raw, urgent mood.",
+      "mood": "raw",
+      "subjects": [
+        "two figures",
+        "silhouettes",
+        "pulling gesture",
+        "tension"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/08ba3ed7-75d0-4436-bb4a-0ec03cc485b4"
+    },
+    {
+      "description": "A white silhouetted figure stands in profile against a black starry sky, its head tilted back with mouth open. Golden and amber flames or energy burst dramatically from the crown of the head, creating jagged, explosive streaks that extend upward and rightward. The figure's body is rendered as a pale void against the dark background, with a tan or sandy ground visible at the base. The composition suggests an awakening or eruption of inner power, with high contrast between the luminous white form and the consuming darkness.",
+      "mood": "fierce",
+      "subjects": [
+        "silhouetted figure",
+        "golden flames",
+        "cosmic explosion",
+        "head tilted back"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/d1485dc1-eb14-4404-9ae4-a3f3b2f316d9"
+    },
+    {
+      "description": "A textured rock face or cliff wall dominates the left side of this collaged, layered photograph, rendered in grayscale with visible striations and weathered surface detail. The composition is fragmented, with stark black bands across the top and cream-colored paper sections below, creating a divided, architectural quality. The overall mood is spare and minimalist, with high contrast between dark and light zones and a sense of geological time and erosion.",
+      "mood": "raw",
+      "subjects": [
+        "rock formation",
+        "cliff face",
+        "collage",
+        "geological texture"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/9eeadf13-5cea-48e0-8789-661ffdd95b1c"
+    },
+    {
+      "description": "A person in dark clothing suspended in mid-air against a bright blue sky with white clouds, arms outstretched in a dynamic pose while attached to a large stunt kite with white fabric and red frame elements. The figure is positioned at the center of the kite's geometric structure, creating a striking composition of human form integrated with the angular lines of the kite. The lighting is bright and clear, with strong contrast between the figure's silhouette and the pale sky, conveying movement, freedom, and exhilaration.",
+      "mood": "fierce",
+      "subjects": [
+        "person suspended in air",
+        "stunt kite",
+        "sky and clouds",
+        "geometric frame"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/f9f27a64-4979-4b29-b07b-a731d374907b"
+    },
+    {
+      "description": "A woman in dark clothing sits perched on the edge of a massive, sleek UFO-like spacecraft with a transparent dome, her body leaning forward in a contemplative pose against a barren desert landscape. The image is rendered in high-contrast black and white, with sparse vegetation visible on the arid ground below and an overcast sky above. The composition creates a striking tension between the surreal, geometric spacecraft and the earthbound human figure, evoking themes of displacement, isolation, and cosmic yearning.",
+      "mood": "cosmic",
+      "subjects": [
+        "woman in dark clothing",
+        "UFO spacecraft with dome",
+        "desert landscape",
+        "surreal spacecraft"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/495bdb94-b6f5-42db-961d-7531a2fa4575"
+    },
+    {
+      "description": "A silhouetted human figure in a horizontal flying or levitating pose against a vast, uniform grey sky, with a dramatic beam of white light emanating from below and passing through their body. The monochromatic black and white composition is minimalist and stark, with the small dark figure dwarfed by negative space. The light beam creates a supernatural, transcendent quality, suggesting ascension, illumination, or emergence from darkness.",
+      "mood": "cosmic",
+      "subjects": [
+        "levitating figure",
+        "light beam",
+        "silhouette",
+        "grey sky"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/f3e18695-8074-4146-9482-6a9bdbb86319"
+    },
+    {
+      "description": "A nude male figure holds a large bouquet of tulips against his torso, the flowers' open petals creating dark voids at their centers. The composition is cropped from neck to mid-thigh, shot against a dark background in high-contrast black and white photography. The figure's musculature and the tulips' delicate forms create a tension between strength and fragility, while dramatic side lighting emphasizes texture and form. A small tattoo is visible on the right arm.",
+      "mood": "sensual",
+      "subjects": [
+        "male figure",
+        "tulip bouquet",
+        "contrasting textures",
+        "intimacy and nature"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/3549ffe0-d76e-4fa3-b0d2-6997ea4d0107"
+    },
+    {
+      "description": "A person in a mauve-pink jacket embraces the massive dark trunk of an ancient tree, arms wrapped around the bark as if in an intimate gesture. Tall green cypress trees frame the composition on either side, with a serene lake and misty mountains visible in the soft-focused background. The lighting is natural and diffused, creating a peaceful, contemplative atmosphere with warm earth tones dominating the palette. The scene conveys vulnerability and connection between human and nature.",
+      "mood": "tender",
+      "subjects": [
+        "person embracing tree",
+        "ancient tree trunk",
+        "cypress trees",
+        "mountain lake landscape"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/b25b98ba-ac9e-4e4b-a0e6-851fabdde373"
     }
   ],
   "failed": [
@@ -22875,7 +23483,7 @@
       "ts": "2026-06-26T15:57:10.057423"
     }
   ],
-  "total": 1140,
-  "success": 1115,
+  "total": 1170,
+  "success": 1145,
   "version": 2
 }
