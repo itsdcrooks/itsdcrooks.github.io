@@ -27074,6 +27074,559 @@
         "hero"
       ],
       "url": "https://cdn.cosmos.so/00b4b3b0-af85-4369-86fc-74156fa04447"
+    },
+    {
+      "description": "A chameleon's prehensile tail coiled in a perfect spiral, the scales rendered in luminous yellow-green and golden tones. The tail curves from upper left downward, forming a mathematical spiral that tapers to a fine point. The reptile's textured skin is captured in sharp detail, with fine crosshatching patterns visible across the scaled surface. The background is soft and blurred green, emphasizing the precise geometry and vivid coloration of the coiled appendage against the diffused natural light.",
+      "mood": "contemplative",
+      "subjects": [
+        "chameleon tail",
+        "spiral geometry",
+        "reptile scales",
+        "natural pattern"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/423c657d-fd70-4f56-bfa7-45c0500e8d4e"
+    },
+    {
+      "description": "A Northwest Coast Indigenous transformation mask carved in wood, painted in deep teal-blue with striking red and orange accents. The mask features exaggerated facial features: large circular white eyes with dark pupils, a prominent nose, and a wide gaping mouth rendered in vivid red-orange with stylized teeth. Red-orange geometric patterns form a beard-like design below the mouth. The composition is symmetrical and frontal against a black background, with bold linear designs creating a sense of spiritual power and ancestral presence. The lighting is stark and direct, emphasizing the three-dimensional carved forms and vibrant pigmentation.",
+      "mood": "fierce",
+      "subjects": [
+        "transformation mask",
+        "Indigenous art",
+        "wooden carving",
+        "ancestral figure"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/5b1e9c72-51ce-4c65-9a68-85d716cfce49"
+    },
+    {
+      "description": "Two vintage automobiles colliding head-on in silhouette against a warm orange-amber gradient sky. The vehicles are rendered as dark geometric shapes with their doors and hoods open in the moment of impact, creating sharp angular forms that stand out against the glowing background. The composition is centered and symmetrical, with the cars positioned at ground level against a duotone landscape of burnt orange transitioning to deeper rust tones. The mood is dramatic and tense, capturing a frozen moment of collision with stark contrast and theatrical lighting.",
+      "mood": "raw",
+      "subjects": [
+        "automobile collision",
+        "vintage cars",
+        "silhouette",
+        "impact"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/e517a016-d5f7-4a39-84ab-f87d3785613d"
+    },
+    {
+      "description": "A solitary surfer in a dark wetsuit rides a modest wave in calm, pale blue-green water, body balanced on a surfboard mid-ride. The composition is minimalist and meditative: the surfer occupies the lower right third of the frame, small against the vastness of the ocean and overcast sky. The horizon line sits roughly in the middle ground, creating equal weight between the pale, featureless sky above and the glassy water below. The palette is cool and muted—soft grays, whites, and blue-greens—with soft, diffused light suggesting early morning or overcast conditions. The mood is quiet and introspective, emphasizing solitude and the relationship between the individual and the natural elements.",
+      "mood": "contemplative",
+      "subjects": [
+        "surfer",
+        "ocean wave",
+        "figure in water",
+        "seascape",
+        "solitary activity"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/2e91a729-7aaa-474c-aae9-5ebeafc08af5"
+    },
+    {
+      "description": "A serene seascape at dawn or dusk with a perfectly still, glassy ocean surface occupying the lower two-thirds of the composition. The water is rendered in soft lavender, grey, and pale lilac tones with subtle horizontal striations suggesting calm ripples. Above, the sky transitions in horizontal bands from pale cream at the top through soft pink and coral to deeper mauve and dusty purple at the horizon line. The entire image is bathed in a diffused, hazy light with no visible sun, creating a meditative, liminal atmosphere between day and night.",
+      "mood": "contemplative",
+      "subjects": [
+        "calm ocean",
+        "dawn or dusk sky",
+        "horizon line",
+        "still water",
+        "pastel gradient"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/f700cbd2-edef-4d34-b83b-01036182391e"
+    },
+    {
+      "description": "An underwater or water-view photograph showing a transition between emerald-green water in the foreground and a distant coastline with low, rolling hills silhouetted against a pale twilight sky. The composition is minimalist and horizontal, with soft, diffused lighting suggesting dawn or dusk. The water's surface shows gentle ripples and texture, while the atmosphere has a hazy, muted quality with cool grey-blue tones in the upper third fading to warmer peach-grey near the horizon.",
+      "mood": "contemplative",
+      "subjects": [
+        "water surface",
+        "distant coastline",
+        "rolling hills",
+        "twilight sky"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/fe58afbe-9f83-4469-af28-3aef77aa1ad9"
+    },
+    {
+      "description": "A single wave breaking in the open ocean, its crest crowned with white foam against dark blue-grey water. The composition is minimalist and centered, with the wave isolated in calm seas under an overcast, pale sky. The lighting is diffuse and cool, creating a monochromatic palette of greys, teals, and whites. The mood is solitary and meditative, capturing a fleeting moment of motion within stillness.",
+      "mood": "contemplative",
+      "subjects": [
+        "breaking wave",
+        "ocean",
+        "seascape"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/44e79b06-a72f-41f5-9263-0b62e82caa81"
+    },
+    {
+      "description": "Two small human figures in spacesuits stand on a rust-colored desert floor scattered with rocks and debris, dwarfed by towering cliff faces that rise thousands of feet into a hazy, dust-laden atmosphere. The cliffs are rendered in deep browns and grays with dramatic vertical striations, their surfaces textured and weathered. Light breaks through the haze from above, casting an ethereal glow on the upper cliff faces while the canyon floor remains shadowed and austere. The composition emphasizes human insignificance against monumental natural architecture.",
+      "mood": "cosmic",
+      "subjects": [
+        "astronauts in canyon",
+        "vast cliff formations",
+        "desert landscape",
+        "atmospheric haze",
+        "alien terrain"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/d6af6755-87bf-46aa-a125-13dfa14a78d7"
+    },
+    {
+      "description": "A polished black sphere sits half-buried in warm sand dunes under a golden-hour sky. The sphere's upper hemisphere reflects a pale blue sky and distant horizon, creating a luminous mirror effect that contrasts sharply with its dark lower half anchored in shadow and earth. The composition is symmetrical and surreal, with the sphere appearing egg-like or cosmic, positioned between desert undulations. The warm ochre and sienna tones of the sand meet cool blues and whites in the sphere's reflection, creating visual tension between earthly and celestial realms.",
+      "mood": "cosmic",
+      "subjects": [
+        "polished sphere",
+        "desert dunes",
+        "horizon reflection",
+        "golden hour light"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/a36312dc-9539-48aa-9df7-738fafe8c369"
+    },
+    {
+      "description": "A solitary figure in dark clothing stands on a vast, pale sandy beach scattered with large boulders and rock formations. The person is small and distant in the frame, gazing toward massive weathered rock outcroppings that emerge from the sand like sentinels. The image has a muted, desaturated palette of beige, tan, and grey, with soft, diffused light creating a contemplative, almost dreamlike atmosphere. The composition emphasizes isolation and vastness, with the human form dwarfed by the geological landscape.",
+      "mood": "contemplative",
+      "subjects": [
+        "solitary figure",
+        "rocky beach",
+        "boulders",
+        "vast landscape",
+        "isolation"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/439b2125-3486-429c-8ecf-90d53d5c79f9"
+    },
+    {
+      "description": "A vast desert landscape dominates the composition, with undulating rust-orange sand dunes in the foreground creating flowing, sculptural patterns. A body of turquoise water cuts horizontally across the middle ground, and beyond it rises a dramatic rocky plateau with sheer columnar rock formations in muted tan and grey. The sky is hazy and pale, diffusing the light evenly across the scene. The palette is dominated by warm terracottas and cool turquoises, creating stark chromatic contrast. A single small figure or vehicle appears in the sand, emphasizing the immense scale of the landscape. The mood is one of vast solitude and primal grandeur.",
+      "mood": "raw",
+      "subjects": [
+        "desert dunes",
+        "turquoise water",
+        "rock plateau",
+        "arid landscape"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/2b97d106-88ab-4c1b-b26c-787771f693d2"
+    },
+    {
+      "description": "A sparse desert landscape with wind-carved sand dunes creating parallel ripple patterns across the composition. A single dead shrub with bare branches stands isolated on the lighter foreground sand, casting a delicate shadow. The image transitions from light beige sand in the foreground to progressively darker, more heavily textured dunes in the background, creating depth through tonal gradation. Harsh, directional sunlight emphasizes the geometric wave-like texture of the wind-sculpted surface, while the barren plant emphasizes solitude and endurance in an austere environment.",
+      "mood": "raw",
+      "subjects": [
+        "sand dunes",
+        "desert landscape",
+        "dead shrub",
+        "wind ripples"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/aa476f73-c959-4e08-83fc-a9a1ffab0a6a"
+    },
+    {
+      "description": "A Renaissance or neoclassical landscape painting depicting tall cypress trees framing a misty valley vista. In the foreground, a woman in red cloth sits on golden grass to the left, while two children in earth tones stand together in the middle distance. The composition uses the dark vertical cypress trunks as a natural corridor drawing the eye through layers of atmospheric haze toward a distant hillside town with a dome visible on the horizon. The palette is warm—golden greens, ochre grass, soft grey-blues in the atmospheric distance—creating a serene, timeless mood under diffused golden light.",
+      "mood": "contemplative",
+      "subjects": [
+        "cypress trees",
+        "valley landscape",
+        "seated woman in red",
+        "two children",
+        "distant town",
+        "atmospheric haze"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/1bca2402-dc95-4554-a269-9f01b186b9c6"
+    },
+    {
+      "description": "A dramatic landscape painting dominated by towering cumulus clouds illuminated by golden sunset light against a pale yellow sky. Dark forested hills with evergreen trees occupy the lower left foreground, while the middle ground recedes into a misty, expansive plain or water. The composition uses horizontal atmospheric layers—dark, brooding clouds above giving way to luminous yellow-gold light on the horizon. The mood is one of imminent weather change, with the painting's romanticism emphasizing nature's sublime power and the contrast between illuminated clouds and shadowed earth below.",
+      "mood": "ethereal",
+      "subjects": [
+        "cumulus clouds",
+        "sunset sky",
+        "forested landscape",
+        "atmospheric perspective"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/c3127388-209b-4bfb-80ae-7546205c49cd"
+    },
+    {
+      "description": "A meandering river with reflective blue water winds through a vast, flat green meadow at twilight. A solitary copse of dark trees stands silhouetted on the distant horizon, framed against a dramatically luminous sky transitioning from deep blue to soft pink, purple, and golden yellow. The composition features a low horizon line with gentle hills in the distance and scattered boulders dotting the flatland. The lighting captures the liminal moment between day and night, with warm clouds catching the last rays of sun against a cooling blue atmosphere.",
+      "mood": "contemplative",
+      "subjects": [
+        "meandering river",
+        "green meadow",
+        "solitary tree copse",
+        "twilight sky",
+        "distant hills"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/6bb39316-23e8-4c81-83de-808bdf37cf26"
+    },
+    {
+      "description": "A gazelle or antelope stretches upward on its hind legs, neck elongated and front legs lifted toward a bright star or celestial light source against a black night sky. The animal's body is illuminated in warm cream and golden tones, creating a luminous glow that contrasts sharply with the dark ground and starfield. The composition captures a moment of reaching, aspiration, or reverence, with the creature's pose suggesting both vulnerability and grace beneath the cosmic expanse.",
+      "mood": "cosmic",
+      "subjects": [
+        "antelope reaching toward star",
+        "nocturnal animal",
+        "celestial light",
+        "starry sky"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/aee77f36-09e2-4640-8f37-d36047f3848e"
+    },
+    {
+      "description": "A luminous angelic or divine figure with massive translucent wings extends upward in a symmetrical composition, rendered in soft pink and pearlescent tones. The figure's humanoid form glows from within, with a radiant orb of light at the crown and rays of energy emanating outward. Below, golden root-like or feathered tendrils extend downward into a dark, rocky terrain. The overall palette shifts from cool purples and pinks above to warm golds and browns below, creating a vertically organized spiritual ascension. The mood is transcendent and otherworldly, with the figure appearing to channel cosmic or divine energy.",
+      "mood": "cosmic",
+      "subjects": [
+        "angelic figure",
+        "luminous wings",
+        "divine light",
+        "energy rays",
+        "celestial being"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/031a0cb4-2b4f-4b94-a662-1179cad8f00d"
+    },
+    {
+      "description": "A ghostly angelic figure with a pale face and green-tinged torso dominates the center, arms outstretched with massive white feathered wings spread wide on either side. The figure is painted in loose, gestural brushstrokes against a near-black background, creating a stark high-contrast composition. The wings radiate outward in dramatic diagonal streaks of white and grey, while the body remains ethereal and translucent, dripping downward with pale washes. The overall mood is haunting and spiritual, rendered in an expressive contemporary style.",
+      "mood": "ethereal",
+      "subjects": [
+        "angelic figure",
+        "white wings",
+        "spiritual apparition",
+        "gestural brushwork"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/92fb4ef3-5f86-4558-9e55-518a533eed04"
+    },
+    {
+      "description": "A total solar eclipse depicted in painterly style, with the moon's dark silhouette centered against the sun's brilliant white corona radiating outward. A small golden flare of light appears at the moon's edge, likely representing the diamond ring effect visible during totality. The composition uses a dramatic palette of deep blues, grays, and whites, with swirling brushstrokes suggesting atmospheric turbulence or the sun's corona. The mood is one of cosmic grandeur and celestial mystery.",
+      "mood": "cosmic",
+      "subjects": [
+        "total solar eclipse",
+        "moon",
+        "sun's corona",
+        "celestial event"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/e38687e6-cebb-4fde-b460-a45bcdc4096e"
+    },
+    {
+      "description": "A solitary robed figure stands in silhouette on a barren, textured lunar or desert landscape, facing a total solar eclipse above. The figure wears a long, hooded dark cloak or robe with a conical hood, positioned centrally in the composition. The eclipse dominates the upper frame as a perfect black circle haloed by a bright corona against a dark sky, with layered sand dunes and rocky terrain creating depth beneath a grey, otherworldly horizon. The image is rendered in high-contrast black and white with grainy, cinematic texture, evoking profound solitude and cosmic witness.",
+      "mood": "cosmic",
+      "subjects": [
+        "robed figure",
+        "total solar eclipse",
+        "desert landscape",
+        "corona halo",
+        "lunar terrain"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/a1545c39-bec1-4609-9211-c0493be2d2e7"
+    },
+    {
+      "description": "Two red hands hold aloft a dark sphere or moon against a zodiac wheel radiating golden rays. The sphere is centered in an ornate circular astrological chart with Roman numerals and divisions marking the twelve houses. Golden stars of varying sizes scatter across a black sky above, while white billowing clouds anchor the composition below. The palette is predominantly black, gold, red, and white, creating a mystical, occult aesthetic with strong symbolic geometry.",
+      "mood": "cosmic",
+      "subjects": [
+        "hands holding sphere",
+        "zodiac wheel",
+        "astrological chart",
+        "stars",
+        "moon or dark orb",
+        "clouds"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/47fd28c8-0c2d-46b9-9a3c-3a7b77e92388"
+    },
+    {
+      "description": "A skeletal or anatomical figure sits in meditation pose at center, arms raised in a devotional gesture, with luminous energy radiating upward from the crown of the skull. The figure is rendered in pale, ghostly tones against a deep black starry night sky scattered with small points of light. A crescent moon glows in the upper left, while two golden-eyed masks flank the composition at lower left and right, and what appears to be an Egyptian or mummified head form sits in shadow at the lower right. The overall mood is mystical and otherworldly, with ethereal light emanating from the skeleton's form.",
+      "mood": "cosmic",
+      "subjects": [
+        "skeleton in meditation",
+        "crescent moon",
+        "Egyptian mask",
+        "radiating light",
+        "starfield"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/91848ec2-db7f-4d04-99bf-7d945c47ab1e"
+    },
+    {
+      "description": "A silhouetted human figure in profile, arms raised upward with palms open toward luminous white wings that emerge from behind them against a dark starry background. The figure appears small and grounded while the wings are massive, ethereal, and translucent—rendered in soft cream and grey tones that glow with inner light. The composition suggests a moment of spiritual ascension or revelation, with delicate stars scattered throughout the dark void and atmospheric mist surrounding the wings.",
+      "mood": "ethereal",
+      "subjects": [
+        "silhouetted figure",
+        "luminous wings",
+        "starry void",
+        "spiritual ascension"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/ce0be8e2-3a54-42a4-97ee-e35e8222b83f"
+    },
+    {
+      "description": "A black cockatoo rendered in detailed stippled and cross-hatched ink, depicted in profile with wings dramatically spread mid-flight. The bird's head is adorned with an elaborate crest of long, curved feathers that sweep upward, while its muscular legs and taloned feet are prominently featured below. The composition shows the bird ascending diagonally across cream paper, with intricate feather detailing throughout creating texture and movement. The monochromatic palette and fine linework create a sense of both power and ornamental elegance.",
+      "mood": "fierce",
+      "subjects": [
+        "black cockatoo",
+        "bird in flight",
+        "spread wings",
+        "feathered crest"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/1f777085-596d-470a-956c-50072b4a77ba"
+    },
+    {
+      "description": "A mermaid or sea goddess with a human female torso and long reddish-gold hair stands in shallow ocean waves, her lower body transitioning to a scaled fish tail in golden hues. She is adorned with an elaborate headdress of elongated horn-like structures and surrounded by massive shell-like or leaf-like fins that fan outward in shades of brown, green, and rust. The composition is frontal and symmetrical, with the figure centered against a luminous sky painted in soft creams, blues, and peachy tones. The overall mood is dreamlike and otherworldly, rendered in a delicate watercolor technique with ornamental, Art Nouveau sensibilities.",
+      "mood": "ethereal",
+      "subjects": [
+        "mermaid",
+        "sea goddess",
+        "ocean",
+        "shell fins",
+        "scaled tail"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/7f5caf46-59cb-4561-b8fb-d2c2fc0aac03"
+    },
+    {
+      "description": "A winged androgynous figure with arms raised in a cruciform pose hovers before a luminous sun disk ringed with radiating lines. The figure's body is rendered in dark tones while massive feathered wings spread wide in silhouette against the glowing orb. The composition is circular and mandala-like, with warm golden and orange hues dominating the center, transitioning to deep charcoal and black at the edges. Wispy clouds frame the lower portion. The mood is transcendent and spiritually exalted, suggesting ascension or divine illumination.",
+      "mood": "devotional",
+      "subjects": [
+        "winged figure",
+        "sun disk",
+        "divine light",
+        "celestial ascension"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/93b8a7cd-dfb3-470b-81ca-0b1693cad91a"
+    },
+    {
+      "description": "A Byzantine or Eastern Orthodox icon depicting Christ Pantocrator, shown frontally with a pale, austere face and shoulder-length dark hair, wearing ornate ecclesiastical robes with jeweled embellishments and geometric patterns. The figure is haloed in gold leaf and positioned centrally against a weathered blue-green background. The painting shows significant age and deterioration with visible cracks, paint loss, and patina, creating a ghostly, time-worn quality that emphasizes the sacred antiquity of the work.",
+      "mood": "devotional",
+      "subjects": [
+        "Christ Pantocrator",
+        "Byzantine icon",
+        "religious figure",
+        "gold halo",
+        "ecclesiastical robes"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/c8ac63ff-c703-4c2c-9a09-1538a90e8c57"
     }
   ],
   "failed": [
@@ -27195,9 +27748,24 @@
       "url": "https://cdn.cosmos.so/370e5d22-c183-4ece-bf82-979def7cbe40",
       "reason": "HTTP 400",
       "ts": "2026-06-26T16:05:05.376000"
+    },
+    {
+      "url": "https://cdn.cosmos.so/10da0800-8205-4f07-81a9-0f248b428791",
+      "reason": "HTTP 400",
+      "ts": "2026-06-26T16:12:56.977154"
+    },
+    {
+      "url": "https://cdn.cosmos.so/c07ca9be-8548-4737-b5a7-f0ac14db0cc7",
+      "reason": "HTTP 400",
+      "ts": "2026-06-26T16:13:06.231440"
+    },
+    {
+      "url": "https://cdn.cosmos.so/991216b0-de6a-4cbd-92c4-b5164935f53b",
+      "reason": "HTTP 400",
+      "ts": "2026-06-26T16:13:07.055174"
     }
   ],
-  "total": 1350,
-  "success": 1323,
+  "total": 1380,
+  "success": 1350,
   "version": 2
 }
