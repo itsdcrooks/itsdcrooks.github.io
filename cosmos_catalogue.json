@@ -25822,6 +25822,637 @@
         "hero"
       ],
       "url": "https://cdn.cosmos.so/b447d72a-524f-454c-a02a-022d3d889363"
+    },
+    {
+      "description": "A surreal composite of bioluminescent deep-sea creatures and cosmic elements against a dark burgundy gradient sky. A glowing scorpion with golden-orange lights trails across the upper left; a black teardrop-shaped flower with pale pink interior floats at center with a luminescent yellow stamen; a human figure in an inverted pose intertwines with a snake below; various celestial orbs, desert dunes in burnt orange, textured coral formations, and a crescent moon populate the composition. The mood is dreamlike and nocturnal, blending marine biology, mythology, and eroticism in warm golds against deep cool shadows.",
+      "mood": "sensual",
+      "subjects": [
+        "bioluminescent scorpion",
+        "deep-sea flower",
+        "inverted human figure",
+        "snake",
+        "celestial orbs",
+        "desert landscape",
+        "coral formations"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "closing",
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/3d40154f-4d8d-40cf-958f-aed0b42b6034"
+    },
+    {
+      "description": "A solitary human figure in warm orange-red clothing stands on dark rocky terrain, gazing upward at a massive ethereal apparition rising from the horizon. The specter is composed of three stacked oval forms in pale turquoise and cream, creating a ghostly, sentinel-like presence against a luminous sky. The composition features a gradient from yellow-gold at the horizon to deep blue-purple at the top, with a calm reflective water surface in the middle distance. The overall palette is dreamlike and liminal, with a grainy, textured quality suggesting spiritual or visionary experience.",
+      "mood": "cosmic",
+      "subjects": [
+        "solitary figure",
+        "ethereal apparition",
+        "luminous horizon",
+        "water landscape"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/5813e6c8-990f-4f8d-bf9a-ae479b40d03f"
+    },
+    {
+      "description": "A white swan stands in profile on pale sand, its long neck curved gracefully upward, its head crowned with a glowing pink orb. Behind it stretches a surreal landscape of undulating sand dunes in cream and mauve, bisected by a vivid magenta-pink stripe. The background features concentric arcs of pale golden and white light radiating outward in perfect geometric rings, creating a tunnel-like perspective that recedes infinitely. The overall palette is soft and dreamlike—whites, creams, dusty pinks, and warm golds—with ethereal, diffused lighting that suggests either sunrise or an otherworldly glow.",
+      "mood": "ethereal",
+      "subjects": [
+        "white swan",
+        "sand dunes",
+        "celestial light",
+        "concentric geometry",
+        "glowing orb"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/58183ee1-c200-413a-a92c-e517fbfcd08a"
+    },
+    {
+      "description": "Two human figures in ethereal, translucent forms connected by a vertical beam of radiant light. The lower figure sits in a meditative pose with arms extended, emitting rainbow-colored light from the chest upward. The upper figure floats above, arms raised, surrounded by concentric rings of luminous energy. The composition is set against a dark planetary sphere and cosmic nebula background rendered in deep blues and blacks, with a golden-green aurora-like glow at the top. The entire scene conveys spiritual ascension and energetic connection between two beings.",
+      "mood": "cosmic",
+      "subjects": [
+        "two human figures",
+        "light beam",
+        "meditation pose",
+        "energy rings",
+        "planetary sphere",
+        "transcendence"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/ad879183-d81d-423f-a63a-7d3be424eadc"
+    },
+    {
+      "description": "A luminous angelic or winged figure with outstretched white wings hovers above a still body of water between two dark mountains, reflecting light onto the rippled surface. A massive celestial body glows pink and cream in the sky above, with a moon visible in the upper right and scattered stars throughout a deep blue atmosphere. The composition is symmetrical and centered, with cool teal and blue tones in the lower half contrasting sharply against the warm pink and peachy tones of the upper sky and celestial orb.",
+      "mood": "ethereal",
+      "subjects": [
+        "winged figure",
+        "celestial body",
+        "mountain peaks",
+        "still water",
+        "moon",
+        "stars"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/974ad923-56df-45e7-8e3b-211d5184d358"
+    },
+    {
+      "description": "A solitary human figure stands in the center of a misty, ethereal landscape, rendered in soft greens, creams, and pale earth tones. The figure appears as a thin vertical silhouette, barely distinct from the surrounding fog and light, with arms at their sides. The composition is deeply atmospheric, with diffused light emanating from above and creating a halo effect around the isolated form. The entire image has a dreamlike, transcendent quality suggesting spiritual contemplation or passage through a liminal space.",
+      "mood": "ethereal",
+      "subjects": [
+        "solitary figure",
+        "mist and light",
+        "spiritual landscape"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/52d91b0e-c496-467d-8c69-e8f43ec2a377"
+    },
+    {
+      "description": "A solitary human figure in dark clothing stands on a barren, rocky desert landscape with a distant mountain and salt flat beyond. Dominating the composition is a giant human eye in the sky above, rendered in pale tones with radiating green and blue lines emanating outward like sun rays or divine sight lines. The palette is muted earth tones—beige, grey, tan—contrasted with cool greens in the eye's rays. The mood is surreal and watchful, evoking surveillance, cosmic consciousness, or an all-seeing presence observing the lone figure below.",
+      "mood": "cosmic",
+      "subjects": [
+        "solitary human figure",
+        "giant eye in sky",
+        "desert landscape",
+        "radiating light rays",
+        "barren terrain"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/65308511-18f3-4af8-a53f-381eb296c430"
+    },
+    {
+      "description": "A translucent human figure in ethereal white and pale violet stands centrally, surrounded by a massive geometric mandala or yantra pattern of intricate grid lines radiating outward in concentric circles. The figure is depicted in a standing pose with arms slightly extended, revealing internal anatomical or energetic lines. The composition splits between cosmic darkness with stars and spiral galaxies in the upper left, and a natural landscape with rolling green hills, flowering trees, and blue sky on the lower right. Soft peachy and violet light emanates from the figure's center, creating a luminous gradient against the cool greys and deep purples of the geometric pattern.",
+      "mood": "cosmic",
+      "subjects": [
+        "human figure",
+        "mandala",
+        "geometric yantra",
+        "galaxies",
+        "natural landscape",
+        "radiant light"
+      ],
+      "is_devotional": true,
+      "is_botanical": true,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/0e3d757f-3cfa-4562-825d-9f81a8e3d142"
+    },
+    {
+      "description": "A silhouetted human figure in profile stands facing a luminous doorway or portal, rendered in neon pink and purple light against a black background. The figure wears fitted clothing and appears to be reaching toward or interacting with the glowing geometric form. Radiating lines of light extend outward from the portal in a starburst pattern, creating a sense of dimensional depth and energy. The composition is high-contrast and digitally rendered, with a cyberpunk aesthetic that merges the figure's dark form with vibrant electromagnetic light.",
+      "mood": "cosmic",
+      "subjects": [
+        "silhouetted figure",
+        "neon portal",
+        "light geometry",
+        "radiating energy",
+        "technological transcendence"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/04aaf2eb-4311-4c20-8c6f-91dbb0307506"
+    },
+    {
+      "description": "A luminous human silhouette glowing with blue and white light stands in a barren, starlit landscape. The figure's outline is sharply defined against a dark sky scattered with stars, with a waterfall cascading down the torso and legs. Inside the silhouette, a distant vista of mountains and water reflects, creating a portal-like effect. The composition is symmetrical and frontal, with the figure's arms at rest, rendered in cool blues and whites against deep browns and blacks of the desolate terrain.",
+      "mood": "cosmic",
+      "subjects": [
+        "human silhouette",
+        "waterfall",
+        "mountains",
+        "starry sky",
+        "luminous figure"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/fdd03a7d-37eb-4d5f-8106-4036f4e0cbd2"
+    },
+    {
+      "description": "A human figure in full-body frontal pose, head replaced by a radiant yellow sun with spiky rays emanating outward. The body is rendered in a vertical gradient of rainbow colors—magenta and purple in the torso, transitioning through blue, cyan, and green in the lower body—filled with sparkles and luminous particles. A bright yellow aura outlines the entire silhouette. Two smaller suns glow in the background at left and right. The composition is set against a swirling cosmic backdrop of deep blues, purples, and orange streaks suggesting energy currents or aurora-like movement. The overall mood is transcendent and energized, emphasizing spiritual radiance and inner light.",
+      "mood": "cosmic",
+      "subjects": [
+        "human figure with sun head",
+        "radiant aura",
+        "rainbow gradient body",
+        "celestial energy",
+        "chakra symbolism"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/c65d1ad0-be2a-4191-bc90-b45497b89cac"
+    },
+    {
+      "description": "A solitary human figure stands centered on an infinitely receding straight road, silhouetted against a massive glowing orb on the horizon. The road splits symmetrically, with vibrant rainbow-colored bands (pink, blue, yellow, orange, cyan) flowing along both sides in undulating curves. The sky transitions from warm orange at the top through pink and purple to cool cyan at the horizon. The lighting is ethereal and surreal, with a white glow emanating from the figure and the central vanishing point. The composition uses perfect bilateral symmetry and creates a sense of infinite perspective and journey.",
+      "mood": "cosmic",
+      "subjects": [
+        "solitary figure",
+        "infinite road",
+        "celestial orb",
+        "rainbow light streams",
+        "vanishing point perspective"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/b65f5514-ebc7-4635-a5c7-46fd4e7fdce0"
+    },
+    {
+      "description": "A silhouetted human hand reaches upward toward a large, luminous sun dominating the composition. The hand is dark and defined against a glowing orb of cream and pale yellow, which appears to hover just above the fingertips. The background transitions from golden yellow near the sun to deep orange and burnt sienna at the edges, creating a gradient sunset or sunrise atmosphere. The image has a painterly, slightly soft-focus quality with warm tones throughout, evoking a sense of yearning or spiritual aspiration.",
+      "mood": "devotional",
+      "subjects": [
+        "silhouetted hand",
+        "luminous sun",
+        "sunset gradient",
+        "reaching gesture"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/a4749ff7-64ad-4677-84e7-4028524f0979"
+    },
+    {
+      "description": "A silhouetted human figure stands in profile against a warm gradient background of orange, peach, and grey. The person wears a dark, loose-fitting garment and gazes upward with an open, receptive posture. The image is heavily grainy and atmospheric, with a soft-focus quality that creates a dreamlike veil across the composition. The contrast between the dark foreground figure and the luminous, diffused background creates a sense of spiritual awakening or inner illumination.",
+      "mood": "ethereal",
+      "subjects": [
+        "silhouetted figure",
+        "upward gaze",
+        "warm gradient light",
+        "grainy texture"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/abcd98a2-e887-4a4c-a7ce-4cb2eb78ed97"
+    },
+    {
+      "description": "A solitary human figure stands in the center distance of a vast symmetrical landscape, silhouetted against a brilliant light source. The composition features two massive curved architectural or geological formations that frame the figure like cathedral arches, creating a portal effect. The palette shifts across the image: deep magenta and purple in the foreground, transitioning through cyan and teal to warm orange and yellow tones at the horizon and sky, with soft gradients and glowing light throughout creating an otherworldly, transcendent atmosphere.",
+      "mood": "cosmic",
+      "subjects": [
+        "solitary figure",
+        "symmetrical portal",
+        "gradient landscape",
+        "radiant light",
+        "architectural forms"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/16349ff8-ff04-4b42-b85b-0e151438eb01"
+    },
+    {
+      "description": "A profile portrait of a person with pale skin and dark hair, wearing a blue garment, facing left against a dark brown background. Their head is framed by an elaborate red ornamental halo with intricate geometric patterning. Cascading down from their neck are approximately a dozen brown mushrooms with curved caps, arranged in a vertical line. A golden vessel with streaming white liquid or smoke rises at the bottom left. The color palette is rich with deep browns, rust reds, creams, and acid blues, lit with starlike points and vertical dripping elements creating an alchemical, visionary atmosphere.",
+      "mood": "cosmic",
+      "subjects": [
+        "portrait",
+        "mushrooms",
+        "halo",
+        "alchemical vessel",
+        "spiritual vision"
+      ],
+      "is_devotional": true,
+      "is_botanical": true,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/7b922fe1-1efb-40ab-a9e4-fed70cc3b8a5"
+    },
+    {
+      "description": "A solitary flame or candle rendered in warm oranges and yellows glows against a deep blue-violet background, surrounded by sweeping pink and red energy lines that curve and spiral around it like an aura or magnetic field. The figure is centered and luminous, with a soft, almost translucent quality suggesting spiritual radiance rather than physical form. The composition conveys intense inner light contained within flowing, protective energy.",
+      "mood": "devotional",
+      "subjects": [
+        "flame",
+        "candlelight",
+        "aura",
+        "spiritual energy"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/f743f11e-77e8-44f9-b15d-438e648d935c"
+    },
+    {
+      "description": "A detailed black ink engraving of a human eye with a dark pupil and white highlight, centered in the composition. Two small human figures sit together on a rocky, barren hillside in the lower portion of the image, appearing to gaze upward. The background is a soft, pastel watercolor wash in shades of pink, lavender, blue, green, and cream, creating a diffused, dreamlike atmospheric gradient. The contrast between the precise, detailed eye and the ethereal, colored background creates a surreal, contemplative mood.",
+      "mood": "ethereal",
+      "subjects": [
+        "human eye",
+        "two figures on hillside",
+        "watercolor gradient",
+        "surreal landscape"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/92e8ecb4-f0ad-41ff-817b-6814fcb3d7ae"
+    },
+    {
+      "description": "A celestial figure with outstretched wings composed of swirling golden lines emerges from a field of cubic stones, hands pressed together in prayer at their chest. The figure gazes upward toward Earth suspended in a starry night sky above, surrounded by spiraling cosmic patterns and nebulae rendered in deep indigo, purple, and gold. The composition moves vertically from earthly geometric forms below to ethereal space above, creating a bridge between material and divine realms with luminous, flowing brushwork.",
+      "mood": "cosmic",
+      "subjects": [
+        "winged celestial figure",
+        "Earth planet",
+        "cosmic spirals",
+        "prayer hands",
+        "cubic stones",
+        "starfield"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/6f9d9dd4-e5f1-4ddd-b70c-d6b1c18c043e"
+    },
+    {
+      "description": "Three luminous humanoid figures with glowing white bodies radiate beams of light against a starfield backdrop. The central figure stands tallest with arms outstretched, while two flanking figures beam upward toward a pale disc UFO hovering above. Below stretches a cloud layer rendered in soft white and blue-grey tones. The composition uses concentric rays of light emanating from each figure's core, set against a deep blue night sky scattered with stars and yellow points of light. The mood is transcendent and otherworldly, with an ethereal quality suggesting spiritual ascension or cosmic communion.",
+      "mood": "cosmic",
+      "subjects": [
+        "luminous beings",
+        "UFO",
+        "starfield",
+        "light rays",
+        "cloud layer"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/e00e6033-3d0d-4f29-8393-257a6be4e3df"
+    },
+    {
+      "description": "An abstract luminous figure rendered in soft, blurred gradients of turquoise, yellow, orange, and lavender, with a vaguely humanoid form facing forward. The composition features a glowing oval head at the top and a flowing, ethereal body that dissipates into wisps of colored light and sparkles. Radiating lines extend outward from the figure like energy or an aura, with white stars scattered throughout the composition. The overall palette transitions from warm peachy tones on the left to cool blue-violet tones on the right, creating a dreamlike, transcendent atmosphere.",
+      "mood": "cosmic",
+      "subjects": [
+        "luminous figure",
+        "aura",
+        "stardust",
+        "energy body",
+        "radiant light"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/5650f39e-50d3-4e9c-9593-07df65d101b9"
+    },
+    {
+      "description": "A human figure with outlined form stands at center, rendered in white and glowing orange-yellow light against a cosmic background. The figure is frontal and symmetrical, arms at sides, with energy flowing through and around their body. Surrounding the figure are concentric rings of orange and teal light, resembling orbital paths or energy fields, with circular dark voids (like black holes or portals) positioned in the upper right, lower right, and lower left. The palette alternates between vivid orange, electric teal, and deep black void, creating a sense of movement and celestial energy. The mood is transcendent and energetic, suggesting spiritual awakening or cosmic consciousness.",
+      "mood": "cosmic",
+      "subjects": [
+        "human figure",
+        "energy field",
+        "celestial orbits",
+        "light rays",
+        "void portals"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/9d5ca061-22f1-499d-a18c-362157685aff"
+    },
+    {
+      "description": "A human figure in profile, face and bare shoulder illuminated in golden-amber light against deep darkness, with delicate plant stems or grasses casting sharp shadows across the skin. The composition is intimate and close, with warm highlighting that creates dimensional modeling of the face and body. Scattered golden particles or dust motes float through the dark background, creating an ethereal, dreamlike quality. The lighting is dramatic and directional, suggesting candlelight or filtered sunlight, evoking vulnerability and introspection.",
+      "mood": "sensual",
+      "subjects": [
+        "human figure",
+        "botanical shadows",
+        "golden light",
+        "intimate profile"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/266efcb6-0db4-4247-9c6f-54a871685cb4"
+    },
+    {
+      "description": "A black silhouette of a great blue heron or similar wading bird in flight, wings spread wide and neck extended, positioned against a large glowing orange-red sun dominating the composition. The bird appears to be passing in front of the celestial orb against a dark brown-black sky. The stark contrast between the incandescent sun and the bird's dark form creates a dramatic, high-contrast composition with an Eastern aesthetic sensibility.",
+      "mood": "cosmic",
+      "subjects": [
+        "great blue heron in flight",
+        "setting or rising sun",
+        "silhouette",
+        "celestial moment"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/2baaf8ec-364c-4853-b8d4-b5bdd998b6f2"
+    },
+    {
+      "description": "A raven or crow in silhouette, wings spread wide in flight against a dark night sky dotted with stars. A large glowing red-orange orb—resembling either a celestial body or eye—is positioned at the bird's center, creating a striking focal point. The image has a grainy, vintage film quality with deep blues and blacks dominating the palette. The mood is mysterious and otherworldly, with the bird appearing almost totemic or symbolic.",
+      "mood": "cosmic",
+      "subjects": [
+        "raven in flight",
+        "glowing red orb",
+        "night sky",
+        "silhouette"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/14e20960-131b-42aa-9006-cb7762cdacd9"
+    },
+    {
+      "description": "A celestial winged figure with a dark red humanoid body, pale yellow eagle head, and massive golden wings dominates the composition. Above floats a stylized eye symbol in muted green tones; below are a golden sun and black sun with radiating spikes. The figure is centered within a blue mandala-like circle with red border, surrounded by ornamental spheres and geometric elements. The palette combines warm golds and yellows with cool blues and deep reds, creating a symmetrical, alchemical composition with a cream background. The mood is mystical and archetypal, suggesting transformation and celestial hierarchy.",
+      "mood": "cosmic",
+      "subjects": [
+        "winged figure",
+        "eagle head",
+        "celestial being",
+        "sun and moon",
+        "mandala",
+        "eye symbol",
+        "alchemical imagery"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/df2aa285-b66b-4e4b-a5f2-a83de67c963e"
+    },
+    {
+      "description": "A human figure with a bald head in profile faces upward, emerging from or merged with a symmetrical butterfly with vibrant red wings featuring concentric circles in orange, green, and yellow. The figure's torso contains a blue circle and green foliage, while purple fabric or wings extend downward from the lower body. The composition uses watercolor and ink with a soft cream background, creating a dreamlike, androgynous fusion of human and insect. The mood is transformative and meditative, blending botanical and mystical symbolism.",
+      "mood": "cosmic",
+      "subjects": [
+        "butterfly",
+        "human figure",
+        "transformation",
+        "wings",
+        "foliage",
+        "mandala-like patterns"
+      ],
+      "is_devotional": true,
+      "is_botanical": true,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/81842f3c-955d-41e1-ae2c-437af4254105"
+    },
+    {
+      "description": "A yellow sun with a human face and closed eyes dominates the upper left, its rays streaming downward in orange and gold flames against a black sky. A blue moon with craters and a serene expression sits in the lower right, rendered in blue and black ink. Five orange stars scattered across the dark background complete a celestial scene. The composition balances solar and lunar energies in a whimsical, anthropomorphic style with hand-drawn linework and warm-cool color contrast.",
+      "mood": "cosmic",
+      "subjects": [
+        "sun with face",
+        "moon with face",
+        "stars",
+        "celestial bodies"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/644889f8-ce5f-45c8-9cb1-eeab99f762f8"
+    },
+    {
+      "description": "An occult or fantastical creature rendered in black ink on aged parchment, featuring a central winged insectoid or demonic form with a spiraling shell or gear-like head crowned with two long feathers. The figure has multiple segmented limbs—six visible appendages extending outward in a symmetrical composition, each terminating in different forms: clawed hands, taloned feet, and segmented tentacles. Two smaller similar creatures flank the composition at lower left and right. The entire image is rendered in a precise, naturalistic engraving style with cross-hatching, creating a cabinet-of-curiosities or grimoire aesthetic against yellowed, aged paper.",
+      "mood": "cosmic",
+      "subjects": [
+        "winged insectoid creature",
+        "occult anatomy",
+        "symmetrical composition",
+        "mechanical spirals",
+        "feathered crown"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/dac0ea43-fdbb-44d9-b18c-c4c3899f8856"
+    },
+    {
+      "description": "A woman's face with red geometric patterns and markings dominates the left side of the composition, her gaze direct and penetrating, set against a starry night sky. Behind and above her head rises a massive blue stone formation or geological structure with dramatic craggy contours. The background reveals a cosmic landscape with purple and pink nebulae, scattered stars, and orange-red rocky terrain below, creating a sense of otherworldly vastness. The palette combines cool blues and purples with warm orange-reds, and the overall mood blends the intimate human portrait with the infinite scale of space.",
+      "mood": "cosmic",
+      "subjects": [
+        "woman's face with red markings",
+        "blue stone formation",
+        "starry sky",
+        "nebulae",
+        "cosmic landscape"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/b7023520-2fa2-4680-a539-c8bcb0fbb674"
     }
   ],
   "failed": [
@@ -25945,7 +26576,7 @@
       "ts": "2026-06-26T16:05:05.376000"
     }
   ],
-  "total": 1290,
-  "success": 1263,
+  "total": 1320,
+  "success": 1293,
   "version": 2
 }
