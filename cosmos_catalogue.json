@@ -23370,6 +23370,627 @@
         "hero"
       ],
       "url": "https://cdn.cosmos.so/b25b98ba-ac9e-4e4b-a0e6-851fabdde373"
+    },
+    {
+      "description": "Two figures in dark clothing stand together in a sun-dappled meadow beneath arching tree branches, surrounded by blooming white flowers. The composition frames them through a natural tunnel of foliage and gnarled tree trunks, with mountains visible misty in the distant background. The black-and-white photograph creates a dreamy, intimate atmosphere through its soft focus and interplay of light and shadow filtering through the canopy above.",
+      "mood": "tender",
+      "subjects": [
+        "two figures",
+        "flowering meadow",
+        "mountain landscape",
+        "tree canopy",
+        "dappled light"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/c2c56006-28b6-4012-826d-8b047042102d"
+    },
+    {
+      "description": "Two dancers perform an acro-yoga or partner lift pose in shallow water on a stage with blue lighting. The male dancer supports the female dancer, who is horizontal and extended in a flying position with her body fully stretched and limbs open. Both dancers are shirtless or lightly clothed in earth tones. The stage floor reflects light in ripples, creating a mirror effect. The background is deep navy blue with cool theatrical lighting that emphasizes the wet surfaces and the muscular definition of both performers. The mood is one of trust, strength, and weightlessness.",
+      "mood": "sensual",
+      "subjects": [
+        "partner acrobatic dance",
+        "water stage",
+        "human trust and lift",
+        "theatrical blue lighting"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/f306ba2c-e769-4e4e-b453-6a02ea73b898"
+    },
+    {
+      "description": "A person in white clothing stands on a grass-covered mound at night, playing a stringed instrument (possibly a sitar or similar) surrounded by approximately a dozen white geese on the ground below. The scene is illuminated by artificial light against a completely black sky, creating stark contrast between the white birds, white clothing, and dark ground. The composition is dreamlike and surreal, with the musician elevated above the geese in a ritualistic arrangement.",
+      "mood": "ethereal",
+      "subjects": [
+        "musician with stringed instrument",
+        "white geese",
+        "nighttime landscape",
+        "illuminated figure"
+      ],
+      "is_devotional": true,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/38f28ead-ceed-495c-bf13-0d3faf72bd84"
+    },
+    {
+      "description": "A translucent human figure stands alone on a lakeside path, their body filled with glowing bokeh lights that cascade down like falling stars or water. The figure faces away toward a misty mountain and forested lake landscape, framed by dark tree trunks and branches in the foreground. The lighting is dreamlike and ethereal, with warm golden bokeh contrasting against cool blue-grey mist and cool green foliage. The mood is introspective and luminous, suggesting an inner radiance or spiritual illumination within the physical form.",
+      "mood": "ethereal",
+      "subjects": [
+        "translucent figure",
+        "bokeh lights",
+        "mountain landscape",
+        "misty lake",
+        "forest silhouette"
+      ],
+      "is_devotional": true,
+      "is_botanical": true,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/75920041-05c7-4d02-b8e8-e5c20253ca27"
+    },
+    {
+      "description": "An underwater photograph in black and white showing two figures: a scuba diver in full wetsuit and equipment on the left holding a camera, and a woman on the right wearing a flowing white fishtail gown with feathered details, posed as a mermaid. The composition captures them suspended in dark water against a murky background, creating an ethereal and dreamlike quality. The stark contrast between the diver's dark technical gear and the bride's luminous white dress creates visual drama, while the monochromatic palette emphasizes form, movement, and the weightless grace of the underwater setting.",
+      "mood": "ethereal",
+      "subjects": [
+        "scuba diver",
+        "bride in mermaid gown",
+        "underwater photography",
+        "black and white imagery"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/b4cfb2dc-b734-4b27-8702-d66b87770d33"
+    },
+    {
+      "description": "A person performing a backward dive or flip against a pale, overcast sky, photographed from below so their inverted body is centered in the frame. They wear dark swim briefs and are captured mid-motion, legs extended upward, head and upper torso curved downward in a graceful arc. The black and white photography emphasizes the musculature and form of the body against the minimalist, cloudy background and calm water visible at the horizon line. The composition is stark and geometric, with the human figure as the sole focal point in an otherwise empty, neutral space.",
+      "mood": "raw",
+      "subjects": [
+        "diver in mid-air",
+        "inverted human body",
+        "overcast sky",
+        "minimalist composition"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/9bde4460-5371-4f9d-ab78-36c4edba5280"
+    },
+    {
+      "description": "A white square tile or paper card with hand-written black text reading \"IF WE DON'T CREATE WE ENTROPY\" is centered on a weathered grey-green concrete surface. The tile casts a sharp shadow on the left side, suggesting overhead sunlight. The concrete background is aged and stained with marks, cracks, and lichen-like discoloration, creating visual contrast with the clean white card. The composition is stark and minimalist, with the motivational text positioned centrally against the textured, deteriorating urban surface.",
+      "mood": "raw",
+      "subjects": [
+        "motivational text",
+        "white card",
+        "concrete surface",
+        "shadow"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/057304da-05fc-46eb-bb47-eafb55d57675"
+    },
+    {
+      "description": "A silhouetted human figure in profile, wearing a fitted black long-sleeved garment, tilts their head back with arms extended outward in an open, expansive gesture. Their face is obscured by a large, billowing mass of white smoke or cloud that erupts upward from their head, creating a dramatic contrast against the neutral grey background. The composition is vertical and minimalist, with stark black-and-white tonal contrast emphasizing the figure's vulnerability and the ephemeral nature of the smoke.",
+      "mood": "ethereal",
+      "subjects": [
+        "silhouetted figure",
+        "white smoke",
+        "head thrown back",
+        "arms extended"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/cf8fe412-2940-44a7-9fd3-7c2a7067f200"
+    },
+    {
+      "description": "A white sculptural male figure pours water from a large vessel held above his head, the water cascading down in a crystalline stream. The figure's musculature is smooth and idealized, rendered in pale stone or ceramic with a wet, glistening surface. The composition is shot against a black background with dramatic side lighting that emphasizes the flowing water, the figure's contours, and creates stark shadows. The mood is one of purification and renewal, with the water catching light as it falls.",
+      "mood": "ethereal",
+      "subjects": [
+        "male sculpture",
+        "cascading water",
+        "purification ritual",
+        "idealized figure"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/508d216d-d3b4-4b25-bbe7-ac6a073a0b82"
+    },
+    {
+      "description": "A shirtless man crouches in a splash of water on pavement, wearing orange shorts and a gold chain, his body angled forward in dynamic motion. Water cascades around him in a spray of droplets caught mid-air. Behind him, a brick wall is overlaid with mesh fencing and colorful abstract graffiti (green leaf shapes, red elements, yellow spheres), creating a layered urban backdrop. The photograph uses warm golden-orange tones contrasting with cool grey pavement and blue accents, shot in bright daylight with dramatic splashing action dominating the composition.",
+      "mood": "raw",
+      "subjects": [
+        "man crouching",
+        "water splash",
+        "urban graffiti",
+        "brick wall",
+        "mesh fence"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/72f9fe2d-4f24-4530-9f5a-289eb6371605"
+    },
+    {
+      "description": "A symmetrical overhead view of a fan palm frond, shot from directly above its central stem. The frond's numerous thin, linear leaflets radiate outward in a perfect bilateral pattern, creating a natural mandala effect. The color palette transitions from pale yellow-green at the core to deeper sage and charcoal greens at the edges, with subtle striations visible along each leaflet. The composition emphasizes geometric repetition and radial symmetry, with soft, diffused lighting that highlights the intricate parallel lines and sculptural depth of the overlapping segments.",
+      "mood": "contemplative",
+      "subjects": [
+        "fan palm frond",
+        "radial symmetry",
+        "natural geometry",
+        "leaflet patterns"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/07fb66b9-fadb-4efd-93e2-8c7d66648a5a"
+    },
+    {
+      "description": "Two young women lying in opposite directions on a curved, tiled bathroom floor in shades of turquoise, tan, and white. The woman at top wears a grey linen skirt and is shirtless, arm draped across her forehead in a relaxed pose. The woman at bottom wears a black sequined top and patterned shorts, arms raised above her head. Shot from directly above, the composition creates a symmetrical, mirror-like arrangement. Soft natural light filters across the checkered tiles, creating distinct shadows that emphasize the geometric floor pattern and the curved architectural elements visible at the edges of the frame.",
+      "mood": "tender",
+      "subjects": [
+        "two women",
+        "bathroom interior",
+        "tiled floor",
+        "geometric composition",
+        "overhead perspective"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/46a30308-1cb1-48b7-bbc9-2761cdd7dc48"
+    },
+    {
+      "description": "A single white candle with a tall, bright flame burns against a soft grey background. The candle is cylindrical and unadorned, photographed in close-up with shallow depth of field. The flame is luminous and elongated, casting a warm glow that softly illuminates the surrounding haze. The overall palette is monochromatic—whites, greys, and shadows—creating an intimate, quiet moment of light persisting in darkness.",
+      "mood": "devotional",
+      "subjects": [
+        "candle",
+        "flame",
+        "light",
+        "darkness"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/6485de51-734b-428e-83f4-a01e502b2912"
+    },
+    {
+      "description": "A solitary figure in a dark wetsuit stands atop a jagged black rock formation jutting into calm grey water, one leg extended in a dynamic pose suggesting strength and balance. The person's silhouette is sharp against the overcast sky and flat ocean horizon. The black-and-white photograph emphasizes the textured volcanic rock, the stillness of the sea, and the figure's poised, contemplative stance overlooking the vast water. The composition isolates the figure against emptiness, creating a sense of solitary determination and inner focus.",
+      "mood": "contemplative",
+      "subjects": [
+        "figure on rock",
+        "ocean horizon",
+        "solitude",
+        "balance"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/e65e3660-0689-4bc0-969e-562f966dd8f1"
+    },
+    {
+      "description": "A female figure in a deep blue sequined dress bends forward in an inverted pose, head down between her legs, viewed from above against a burgundy background. Behind her looms an oversized pair of deep purple lips with white highlights, creating a surreal, mouth-like frame. Vertical stripes in red and blue flank the composition on either side. The lighting is theatrical and artificial, creating stark shadows and a dreamlike quality with bold, saturated colors dominating the palette.",
+      "mood": "sensual",
+      "subjects": [
+        "inverted female figure",
+        "oversized lips",
+        "theatrical composition",
+        "surrealism"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/e9874e00-5361-49da-ad8c-db4b9144d496"
+    },
+    {
+      "description": "A solitary human figure in dark clothing stands in shallow water, facing a large dark sail or wing-like structure that rises dramatically from the water beside them. The figure is silhouetted against moonlit water that glimmers with silver-white reflections. The sky is deep teal-to-black with stars visible and what appears to be lightning or a shooting star in the upper left. The composition is vertically oriented with the tall dark form dominating the left side and the small figure creating scale and vulnerability. The mood is nocturnal, mysterious, and confrontational.",
+      "mood": "raw",
+      "subjects": [
+        "solitary figure",
+        "dark sail or wing",
+        "moonlit water",
+        "night sky",
+        "standing human"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/c11f1f5e-cd8e-4131-a9a9-f1dacc0bf53f"
+    },
+    {
+      "description": "A silhouetted figure in a long dark dress sits in profile, their head tilted back in an dramatic pose of surrender or ecstasy. Multiple long spears or staffs radiate outward from their body like a crown or halo, creating a striking geometric sunburst pattern. The composition is shot against a bright, textured white background with atmospheric grain. The image is rendered in high-contrast black and white, emphasizing the sharp lines of the weapons and the figure's arched posture, creating a mood of both vulnerability and power.",
+      "mood": "fierce",
+      "subjects": [
+        "silhouetted figure",
+        "radiating spears",
+        "geometric halo",
+        "arched posture"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/6e0ff078-0164-4144-bfcc-28391b1c463b"
+    },
+    {
+      "description": "Three lunar phases arranged vertically against a deep indigo night sky: a delicate crescent moon at top, a half-illuminated gibbous moon in the middle, and a full moon with rust-orange coloring at the bottom. The composition captures the moon's progression through its cycle, with the full moon rendered in warm amber-rust tones while the sky maintains a cool, saturated blue. The lighting creates soft halos around each lunar body, emphasizing their three-dimensional form against the vast darkness.",
+      "mood": "cosmic",
+      "subjects": [
+        "crescent moon",
+        "gibbous moon",
+        "full moon",
+        "lunar phases",
+        "night sky"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/6516f026-df76-4bb7-87b3-947114779c18"
+    },
+    {
+      "description": "A woman in a flowing pale blue dress sits in still dark water surrounded by numerous green lily pads of varying sizes. She is positioned in profile, gazing downward with a contemplative expression, one arm resting on her lap while the other extends gently into the water. The composition is symmetrical and meditative, with the lily pads creating a natural mandala-like pattern around her. The lighting is soft and naturalistic, the water dark and mirror-like, creating a serene, aquatic environment with grasses visible along the bank.",
+      "mood": "contemplative",
+      "subjects": [
+        "woman in flowing dress",
+        "lily pads",
+        "still water",
+        "aquatic plants",
+        "solitary figure"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/56316d62-1dc8-4c0e-9bdf-ebddb4b58b6c"
+    },
+    {
+      "description": "A solitary figure in dark clothing stands in shallow ocean water, leaning forward in a posture of anticipation or readiness, facing an enormous wave that towers above them with dramatic spray and turbulent white foam. The image is rendered in grayscale with high contrast, creating an intense, dramatic mood. The composition emphasizes the vast scale of the natural force against the small human form, shot from a low angle that amplifies the wave's power and the figure's vulnerable stance.",
+      "mood": "raw",
+      "subjects": [
+        "surfer",
+        "massive wave",
+        "ocean",
+        "human figure",
+        "spray"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/3870e16d-15f0-46a9-bc46-854738ffaf7d"
+    },
+    {
+      "description": "A pink lotus flower in full bloom, rendered in delicate watercolor with fine linear detail work. The flower displays layered petals in graduating shades from pale rose to deep magenta, with the central unopened bud rising prominently. A single green stem extends downward. The composition is set against a cream-colored paper with aged patina, and includes Chinese characters in the upper right corner. The style is consistent with traditional East Asian botanical illustration.",
+      "mood": "devotional",
+      "subjects": [
+        "lotus flower",
+        "pink petals",
+        "botanical illustration",
+        "East Asian art"
+      ],
+      "is_devotional": true,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/51c8c386-4a62-4786-910a-4a74e229a7fa"
+    },
+    {
+      "description": "Two figures embrace beneath a draped white cloth with dark geometric line drawings, standing on a patterned floor in stark black and white photography. Their silhouettes are visible through the translucent fabric, heads close together in an intimate pose, with the cloth catching dramatic side-lighting that creates strong shadows. The composition emphasizes the sculptural quality of the draped material and the tender connection between the two bodies, shot in high-contrast monochrome with textured architectural elements visible in the blurred background.",
+      "mood": "tender",
+      "subjects": [
+        "two figures embracing",
+        "draped white cloth",
+        "geometric patterns",
+        "dramatic shadow play"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/0dbcf806-235a-4cdd-b43b-d5dee96d975b"
+    },
+    {
+      "description": "A golden lotus flower with eight petals and a central stamen rendered in warm yellows and oranges with reddish accents, set against a solid teal-green circular background. The lotus has a curved dark stem and sits in profile against the round composition. The painting uses soft watercolor-like blending with a textured dark border frame, creating a serene, meditative quality with warm light emanating from the flower's center.",
+      "mood": "devotional",
+      "subjects": [
+        "lotus flower",
+        "golden petals",
+        "teal background",
+        "botanical mandala"
+      ],
+      "is_devotional": true,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/f013ea78-5ad0-4ebf-bfee-5eac8a5fa318"
+    },
+    {
+      "description": "A human figure in profile facing upward, rendered in anatomical detail with exposed musculature and neural pathways visible in purple and blue tones. Above the figure's head floats a mythical phoenix or celestial bird with brilliant golden-orange plumage and multicolored eyes (red, blue, yellow), its wings spread wide. The entire composition is suffused with a radiant pink-to-purple gradient background with intricate web-like or neural patterns, creating an effect of energy or enlightenment emanating outward. The mood is visionary and transcendent, blending human anatomy with mythological symbolism.",
+      "mood": "cosmic",
+      "subjects": [
+        "human figure in profile",
+        "phoenix or celestial bird",
+        "anatomical nervous system",
+        "radiant aura",
+        "spiritual ascension"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/4d7160be-ba3a-4124-a5e9-a8b576dc353d"
+    },
+    {
+      "description": "An anatomical cross-section of the human eye rendered in warm, saturated colors—reds, oranges, yellows, and greens—against a black background. The eyeball is depicted with a deep brown iris dotted with golden sparkles, a prominent red sphere representing the pupil, and pale highlighting suggesting light refraction. Surrounding vessels and tissue layers are illustrated as flowing, organic lines in coral and rust tones. The sclera appears luminous cream-white. The composition emphasizes the eye's role as a conduit for light and vision, with an almost jewel-like quality and vintage medical illustration aesthetic.",
+      "mood": "cosmic",
+      "subjects": [
+        "human eye",
+        "anatomical cross-section",
+        "iris",
+        "light refraction",
+        "medical illustration"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/0f80b1b5-a36f-49c3-9748-a499a35be4d2"
+    },
+    {
+      "description": "A geometric cosmological diagram featuring three circles against a cream background, dated 1920. The largest circle at bottom is bright blue with a vertical column of stacked triangles (alternating filled and diamond-patterned) descending from center, connected to a horizontal blue band at the base marked with symbolic characters. The upper right shows a smaller circle with a blue triangle inside a purple ring. The upper left depicts a dark circle divided by geometric lines with radiating copper-colored lines extending outward like solar rays. The composition is symmetrical and mathematical, rendered in vibrant blues, purples, and warm metallics, suggesting esoteric or occult cosmological knowledge.",
+      "mood": "cosmic",
+      "subjects": [
+        "geometric circles",
+        "triangular column",
+        "cosmological diagram",
+        "celestial geometry",
+        "symbolic architecture"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/1f4882e5-0f87-4dab-b2e5-1f6ea9f68bbe"
+    },
+    {
+      "description": "A red Greek cross centered within concentric circles of blue, gold, and bronze, set against a gold-leafed background with a black triangular base. The cross is rendered in deep red with rounded, dimensional letterforms. Ornate geometric frames surround it—a blue radiating mandala, undulating golden borders with tooth-like edges, and nested circular rings. The composition is symmetrical and ritualistic, with a luxurious palette of precious metals and deep pigments suggesting sacred geometry or heraldic symbolism.",
+      "mood": "devotional",
+      "subjects": [
+        "red cross",
+        "concentric circles",
+        "mandala",
+        "gold leaf",
+        "geometric pattern"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/6fe9c48f-0d7a-4a9f-9f0a-4ece85ede508"
+    },
+    {
+      "description": "An abstract geometric composition divided vertically into contrasting zones: a vibrant red-orange left side and deep black right side, separated by a smooth curved division. A large luminous cream-to-white spherical form dominates the center with warm golden-orange gradient shading, suggesting either a sun or celestial body. A small orange circle sits at the curve's edge, creating a focal point. The lighting is dramatic with intense warm tones against cool darkness, evoking sunrise, dusk, or a solar eclipse.",
+      "mood": "cosmic",
+      "subjects": [
+        "sun",
+        "celestial sphere",
+        "geometric division",
+        "light and shadow",
+        "abstract landscape"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/88805bf2-0180-4f33-9ad9-9ad81b3f0d6d"
+    },
+    {
+      "description": "A geometric mandala composition featuring concentric circles and radiating line patterns in white, gold, and grey on a black background. At the center is a bright white teardrop or flame-like form surrounded by nested spheres with intricate mesh gridwork. The upper portion contains celestial bodies including a beaded sphere, a crescent moon, and orbiting planets, while the lower section expands into symmetrical wing-like or petal structures that taper to a sharp point. The entire composition has a precise, architectural quality with mathematical symmetry, suggesting both cosmic systems and sacred geometry.",
+      "mood": "cosmic",
+      "subjects": [
+        "mandala",
+        "celestial bodies",
+        "geometric patterns",
+        "sacred geometry",
+        "radiant light"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/93b094a3-08f3-4fb7-ba02-b42a4fc5c540"
+    },
+    {
+      "description": "A geometric composition featuring a cream-colored circle against a pale pink-beige upper half, with a brown sphere below against a darker grey-brown ground. A multicolored cone emerges from the circle's center, with stripes of blue, yellow, orange, red, and green radiating upward and downward. The cone extends into the sphere below, which is marked by radiating lines creating a pinwheel or mandala effect. The palette is muted and earthy with jewel-tone accents. The mood is balanced between ethereal geometry and grounded cosmic symbolism.",
+      "mood": "cosmic",
+      "subjects": [
+        "geometric cone",
+        "circle and sphere",
+        "radiating mandala",
+        "color spectrum"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "devotional",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/8eef4888-53d1-486d-9e6f-055e4dfedcd9"
     }
   ],
   "failed": [
@@ -23483,7 +24104,7 @@
       "ts": "2026-06-26T15:57:10.057423"
     }
   ],
-  "total": 1170,
-  "success": 1145,
+  "total": 1200,
+  "success": 1175,
   "version": 2
 }
