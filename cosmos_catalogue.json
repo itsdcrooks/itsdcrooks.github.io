@@ -28247,6 +28247,624 @@
         "hero"
       ],
       "url": "https://cdn.cosmos.so/a87dd905-f22e-414a-81f3-a32d2832d67d"
+    },
+    {
+      "description": "A chimera or hybrid demon with a human torso and bestial lower body sits in a cavernous space rendered in dark etching. The creature has a bearded human face with an ornate heart or sacred symbol glowing at its chest, while its lower body transitions to a scaled serpentine or demonic form with clawed feet. Writhing vines or serpents frame both sides of the composition, and the atmosphere is shadowy and subterranean, rendered in rich sepia and black ink with fine cross-hatching that creates depth and texture throughout.",
+      "mood": "fierce",
+      "subjects": [
+        "chimera",
+        "hybrid creature",
+        "sacred heart",
+        "serpents",
+        "etching",
+        "shadow"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/fc26db7a-e9e7-49d6-bc7a-309d5a3cc06f"
+    },
+    {
+      "description": "A silhouette of a large bird of prey, likely an eagle or hawk, shown in profile against a neutral grey background. The bird's distinctive curved talons are prominently displayed as it appears to be perched or descending, with detailed feathering visible along its wings and body. The composition is starkly minimalist, rendered entirely in dark brown-black silhouette with sharp, defined edges that emphasize the predator's powerful stance and keen alertness.",
+      "mood": "fierce",
+      "subjects": [
+        "bird of prey",
+        "eagle silhouette",
+        "talons",
+        "predator"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/036010a7-5158-40d5-9336-27ecc042e10a"
+    },
+    {
+      "description": "A silhouetted human figure with arms raised stands centered within a massive oval composed of glowing pale pink and cream-colored concentric rings. The figure is reflected perfectly below in still water, creating mirror symmetry. Bare tree branches are visible within the composition. The palette is muted greens, yellows, and soft pinks with a ethereal glow emanating from the geometric oval frame. The mood is mystical and transcendent, suggesting a portal or divine gateway.",
+      "mood": "ethereal",
+      "subjects": [
+        "silhouetted figure",
+        "geometric oval frame",
+        "water reflection",
+        "bare trees",
+        "glowing aura"
+      ],
+      "is_devotional": true,
+      "is_botanical": true,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/58488de4-2ad5-4703-a98d-9f7423472db1"
+    },
+    {
+      "description": "A winged angelic or fairy figure with an elongated, ethereal form rendered in pale yellow-green against a deep black starry ground. The being has large, delicately detailed wings with layered feathers, a slender nude torso, and extends one leg in a graceful pose while holding what appears to be a golden staff or wand. The composition is vertical and dynamic, with the figure ascending diagonally across the frame. The palette of luminous yellow-green contrasts dramatically with the dark void, studded with small white stars, creating an otherworldly, celestial atmosphere. The line work is precise and linear, suggesting an Art Nouveau or esoteric illustration style.",
+      "mood": "ethereal",
+      "subjects": [
+        "winged figure",
+        "angel or fairy",
+        "celestial being",
+        "starfield",
+        "staff or wand"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/c0edcc03-aa89-4036-819c-f75a5bd1805b"
+    },
+    {
+      "description": "A silhouetted female figure stands in profile facing a radiant light source, her long hair flowing down her back. She wears a long-sleeved dress or gown and appears to be gazing upward toward an intense golden-white glow emanating from behind her head like a halo or sun. The background is a warm rust and brown landscape, possibly desert or otherworldly terrain, with radiating lines of light streaking outward from the central luminescence. The overall composition suggests spiritual awakening, transcendence, or divine encounter.",
+      "mood": "ethereal",
+      "subjects": [
+        "silhouetted woman",
+        "radiant light source",
+        "halo effect",
+        "desert landscape"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/f3ecadfe-4e5e-43de-bf2c-a459b8e07c98"
+    },
+    {
+      "description": "A total solar eclipse dominates the center of a dark sky, with the moon's silhouette perfectly blocking the sun and a luminous corona radiating outward in pale blue-green light. Below, a rocky, barren landscape with jagged stone formations is silhouetted against a golden-amber horizon where the sun's light still touches the earth. The composition creates a stark contrast between the cosmic darkness above and the warm glow at the edge of the world, evoking a moment of celestial alignment and terrestrial awe.",
+      "mood": "cosmic",
+      "subjects": [
+        "total solar eclipse",
+        "corona",
+        "rocky landscape",
+        "celestial alignment"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/006e0426-bbad-465c-84e5-02c109cf523d"
+    },
+    {
+      "description": "A ethereal female figure rendered in pale, luminescent tones against a deep teal and indigo night sky, her body arched and flowing as if suspended or floating through water or air. Her form is dreamlike and translucent, with flowing fabric or hair creating graceful, undulating lines that suggest movement and weightlessness. The composition is atmospheric and moody, with a cool, nocturnal palette dominated by deep blues and blacks punctuated by the glowing, almost ghostly illumination of the figure's skin. Stars or points of light scatter across the dark background, creating a sense of vast, cosmic space.",
+      "mood": "ethereal",
+      "subjects": [
+        "floating female figure",
+        "night sky",
+        "luminescent form",
+        "flowing fabric"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/98846614-ea9a-40fb-ac9a-7642b8f47cf2"
+    },
+    {
+      "description": "A barren alien landscape rendered in deep red and black tones, with jagged rock formations and wreckage scattered across the foreground. Above, a total solar eclipse dominates the sky—a blood-red corona surrounding a perfect black circle—while stars pierce through the darkness. The composition suggests a catastrophic or otherworldly event, with dramatic lighting that casts sharp shadows across the devastated terrain. The mood is apocalyptic and intensely cosmic, evoking themes of cosmic transformation and celestial power.",
+      "mood": "cosmic",
+      "subjects": [
+        "total solar eclipse",
+        "alien landscape",
+        "barren terrain",
+        "celestial event",
+        "cosmic destruction"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/d0db8ff5-8e21-4557-80ae-24ecf3b48d38"
+    },
+    {
+      "description": "A vast, luminous full moon rises above a minimalist desert landscape rendered in muted grays and tans. Two small human silhouettes stand on a distant sand dune, dwarfed by the enormous celestial orb that dominates the composition. The image uses stark contrast between the pale, slightly textured moon and the darker ground, creating a sense of cosmic scale and human insignificance against the vastness of nature.",
+      "mood": "cosmic",
+      "subjects": [
+        "full moon",
+        "desert landscape",
+        "human figures",
+        "celestial sphere"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/11935ab5-1038-473b-a837-ee8eff2f19a3"
+    },
+    {
+      "description": "A volcanic mountain with distinctive columnar basalt formations dominates the foreground, its dark striped ridges resembling organ pipes or flowing lava channels. Massive turbulent clouds—white, grey, and dark—billow dramatically behind and above the peak, creating an ominous, otherworldly atmosphere. The composition captures raw geological power against tempestuous weather, rendered in muted earth tones and stormy greys with high contrast between dark stone and illuminated cloud formations. The mood is one of primal elemental force and nature's overwhelming grandeur.",
+      "mood": "raw",
+      "subjects": [
+        "volcanic mountain",
+        "columnar basalt",
+        "storm clouds",
+        "geological formation"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/5d62faa7-06bc-4c3c-84a7-a382587f8d77"
+    },
+    {
+      "description": "A solitary female figure stands on a dark shoreline, silhouetted against a luminous golden-yellow sky. She wears a dark one-piece swimsuit and gazes toward the horizon where warm light meets water. The composition uses a dramatic chiaroscuro effect with the figure backlit by an intense golden glow, while the foreground shore and water remain shadowed in deep burgundy and brown tones. The grainy, textured quality and warm color palette create an intimate yet melancholic atmosphere.",
+      "mood": "contemplative",
+      "subjects": [
+        "solitary figure",
+        "shoreline",
+        "golden light",
+        "water's edge"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/f9c49e54-5db5-415a-8ad7-b02aaf8f64d5"
+    },
+    {
+      "description": "A cross-section of a hollow spherical planet or moon rendered in detailed engraving, suspended in a starfield. The interior reveals layered geological strata, a central mountain peak, and a calm body of water on the upper surface beneath an atmosphere with swirling cloud patterns. The exterior lower half shows dramatic cliff faces and deep canyons. The entire celestial body is enclosed within an egg-like membrane or protective shell. Rendered in fine black ink lines on black background with white highlights, creating a sense of mystery and otherworldly geometry.",
+      "mood": "cosmic",
+      "subjects": [
+        "spherical planet",
+        "cross-section geology",
+        "starfield",
+        "atmospheric layers",
+        "inner mountain"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/b88b0768-fc49-4260-a562-973d281d0a17"
+    },
+    {
+      "description": "A crescent moon rendered in purple and mauve tones against a dark, textured black background. The moon is shown in profile facing right, with a human face emerging from or merged with its curved form—a nose, lips, and chin are visible in the illuminated portion. The composition is dreamlike and surreal, suggesting the moon itself has a sleeping or contemplative expression. The texture is grainy and atmospheric, with a vintage or aged quality that evokes both classical astronomy and spiritual symbolism.",
+      "mood": "contemplative",
+      "subjects": [
+        "crescent moon",
+        "human profile",
+        "face merged with celestial body",
+        "night sky"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/392b0ac2-f7d5-4aa5-8bd7-ddd5e88c34ce"
+    },
+    {
+      "description": "A total solar eclipse with the Moon positioned directly in front of the Sun, creating a black circular silhouette surrounded by the Sun's glowing corona. Brilliant rays of light stream radially outward in dramatic bands against a deep teal-grey sky, with a faint reddish glow visible along the Moon's edge where the Sun's chromosphere peeks through. The composition is perfectly centered and symmetrical, evoking both scientific precision and transcendent mystery.",
+      "mood": "cosmic",
+      "subjects": [
+        "solar eclipse",
+        "Moon",
+        "Sun's corona",
+        "celestial alignment"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/5323b91d-cd0d-40c3-a484-98f99b40fdee"
+    },
+    {
+      "description": "A silhouetted female figure in a dynamic pose stands on dark terrain with one arm raised toward a large celestial orb divided into burnt orange and deep black halves, suggesting an eclipse or dual-natured sun. The figure's body language conveys reaching, yearning, or invocation. The composition uses a warm, earthy palette of rust, ochre, and deep browns with a textured, aged quality reminiscent of fresco or weathered canvas. The mood is mystical and transformative, with the figure appearing to commune with or draw energy from the cosmic body above.",
+      "mood": "cosmic",
+      "subjects": [
+        "silhouetted figure",
+        "eclipsed sun",
+        "reaching gesture",
+        "desert landscape"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/89e631db-7f9c-4cef-af96-857f6dc6ceb3"
+    },
+    {
+      "description": "A human figure wearing a dark coat and light-colored scarf stands facing a white wall, head bowed or turned away in profile. The photograph is rendered in high-contrast black and white with grainy texture, the figure's shadow cast sharply against the pale surface behind. The composition creates an introspective, solitary mood through the turned-away posture and stark interplay of light and shadow.",
+      "mood": "contemplative",
+      "subjects": [
+        "solitary figure",
+        "white wall",
+        "shadow and light",
+        "turned away pose"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/295b6098-f8be-4bd2-a198-b1cf9d7ea2e3"
+    },
+    {
+      "description": "A winged angelic figure sits in a meditative pose with head bowed and hands clasped, their body rendered in pale stone or marble. Massive feathered wings in golden-brown tones frame the composition symmetrically on either side. A luminous halo glows softly above the figure's head against a dark, atmospheric background. The overall palette is muted earth tones and cool greys with ethereal light radiating from the center, creating a sense of spiritual transcendence and inner contemplation.",
+      "mood": "devotional",
+      "subjects": [
+        "winged angel",
+        "feathered wings",
+        "glowing halo",
+        "meditative figure",
+        "sacred geometry"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/83efceac-8321-4739-8e63-0a643261a9a1"
+    },
+    {
+      "description": "Three black silhouetted human figures stand barefoot on a thin ground line against a pale beige background, arms raised in open, expansive poses suggesting freedom or celebration. The leftmost figure extends one arm forward and one back in a dynamic lunge; the center figure raises both arms overhead in a V-shape; the rightmost figure mirrors a similar upward reach. White dots mark their chest and lower body areas. Below the figures, numbered instructions in sans-serif typeface read: '1. place barefoot firmly on the ground, 2. take slow, deep breaths, 3. observe the present environment.' The composition is minimalist and instructional, rendered in stark black and white with high contrast.",
+      "mood": "contemplative",
+      "subjects": [
+        "three human figures",
+        "barefoot stance",
+        "grounding practice",
+        "instructional diagram"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/0fcfa91e-6162-4ace-a004-530905b8d534"
+    },
+    {
+      "description": "A human figure in motion, captured mid-leap or dance against a light background. The person wears dark clothing and is photographed with motion blur, creating a sense of dynamic movement and energy. The silhouette is sharp against the pale ground, while the limbs blur into streaking lines suggesting speed and fluidity. The grainy, high-contrast black and white film aesthetic creates an ethereal, dreamlike quality.",
+      "mood": "ethereal",
+      "subjects": [
+        "leaping figure",
+        "motion blur",
+        "silhouette",
+        "human movement"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/4589a2a9-c6ef-4a23-b9c1-286a9c6bef20"
+    },
+    {
+      "description": "An aerial view of a massive tree with a pale, luminescent trunk and branches spreading outward in a radial, symmetrical pattern against vibrant moss-green ground. The tree's intricate root system and branching structure create a fractal-like web of light-colored pathways through the dense green landscape, dotted with small water droplets or dew. The composition is perfectly centered and vertically oriented, emphasizing the tree's geometric symmetry and organic complexity.",
+      "mood": "cosmic",
+      "subjects": [
+        "tree from above",
+        "root system",
+        "luminescent trunk",
+        "fractal branching",
+        "aerial landscape"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/fefd45b9-f91c-4a1f-8621-d96c12acff08"
+    },
+    {
+      "description": "A massive ancient tree with a gnarled, twisted trunk dominates a lush forest interior, its reddish-brown bark rendered in rich detail. Golden light streams through the canopy behind the tree, illuminating a tranquil blue stream flowing through the foreground where smaller trees, ferns, and purple flowering plants cluster along the water's edge. The composition uses warm terracotta and rust tones in the foreground tree contrasting with cool greens, blues, and purples in the botanical understory, creating a sense of deep time and natural mysticism through intricate, detailed rendering.",
+      "mood": "botanical",
+      "subjects": [
+        "ancient tree",
+        "forest interior",
+        "stream",
+        "ferns and flowering plants",
+        "golden light through canopy"
+      ],
+      "is_devotional": false,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/e0d72479-c673-49ef-8596-1616a9838fd4"
+    },
+    {
+      "description": "An elderly woman with weathered brown skin and wrinkled face sits in a dense forest setting, wearing a light blue shirt with floral embroidery and gazing upward with her hand raised to her chest in a gesture of wonder or devotion. Her head is crowned with an elaborate mechanical headdress featuring iridescent purple, red, and green fan-like wings adorned with ornate brass gears, crystals, and scrollwork. Surrounding her are fantastical steampunk creatures including macaws, an owl, and serpentine forms with similar mechanical-organic hybrid features. The forest background is rendered in soft greens and blues with gnarled tree trunks, while the foreground includes flowering plants and intricate decorative elements blending nature with industrial metalwork.",
+      "mood": "devotional",
+      "subjects": [
+        "elderly woman",
+        "mechanical wings",
+        "forest setting",
+        "steampunk creatures",
+        "ornate headdress",
+        "flowering plants"
+      ],
+      "is_devotional": true,
+      "is_botanical": true,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/ca69d091-302c-48a1-b639-a171bde12c46"
+    },
+    {
+      "description": "A deer with an ornate, illuminated mane composed of intricate red and gold decorative elements with teeth-like patterns, rendered in a traditional Southeast Asian temple art style. The deer's body is rendered in pale blue-grey tones against a deep black background, creating stark contrast. The elaborate headdress is heavily ornamented with scrolling motifs, red lacquer details, and golden accents typical of Thai or Laotian sacred animal iconography. The composition is frontal yet dynamic, with the creature's head turned slightly left, evoking both protective guardian status and mystical transformation.",
+      "mood": "devotional",
+      "subjects": [
+        "ornamental deer",
+        "sacred animal",
+        "temple decoration",
+        "illuminated headdress",
+        "mythological guardian"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/17e4ac73-2e92-4837-8434-99db1727c803"
+    },
+    {
+      "description": "A winged human figure in profile, facing left with eyes closed in a serene expression, wearing dark clothing with large feathered wings extending from the shoulders. Three crows or ravens fly upward above the figure against a pale cream background, with a red sun disk in the upper left corner. A sparse landscape of bare trees appears at the bottom. The composition uses muted earth tones—browns, blacks, grays, and ochre—with delicate cross-hatching and naturalistic feather rendering. The mood is introspective and liminal, balancing human vulnerability with avian transcendence.",
+      "mood": "ethereal",
+      "subjects": [
+        "winged figure",
+        "crows in flight",
+        "human with wings",
+        "red sun",
+        "barren landscape"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/387ae2ca-0d8a-4d40-b164-8909b77ee74f"
+    },
+    {
+      "description": "A hybrid creature with a human woman's head and torso combined with a lion's body and large feathered wings, rendered in profile facing left. The woman wears a delicate tiara and has long flowing hair, while her leonine lower body displays powerful front paws with visible claws. Large greenish-brown wings extend from her back. The composition is set against a deep dark background with warm golden-brown tones illuminating the figure, creating dramatic chiaroscuro. The mood is regal and otherworldly, blending human grace with bestial power.",
+      "mood": "ethereal",
+      "subjects": [
+        "mythological hybrid creature",
+        "winged sphinx",
+        "crowned woman",
+        "lion body",
+        "feathered wings"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/8eef52da-f552-433d-af55-6534b445be6e"
+    },
+    {
+      "description": "A human figure in profile, shown from shoulders up, gazes upward with an expression of longing or transcendence. Large, ornate wings in shades of brown and gold extend from the shoulders, rendered in detailed crosshatching and layered strokes. The figure wears dark clothing against a warm, muted cream and tan background. The composition uses soft lighting that emphasizes the three-dimensionality of the face and the delicate texturing of the feathers. The mood is introspective and otherworldly, suggesting spiritual ascension or divine connection.",
+      "mood": "ethereal",
+      "subjects": [
+        "winged figure",
+        "angel wings",
+        "human profile",
+        "spiritual ascension",
+        "feathers"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/7c9561ed-3b40-446c-81e4-fb304b9e1923"
+    },
+    {
+      "description": "A central human figure in a red robe and pale halo sits in an arched, vulnerable posture with arms raised at the sides, head bowed. The figure is rendered in muted flesh tones against a dramatic landscape of dark blue-black mountains with deep red and golden earth tones. Above, a pale cream sky is filled with stylized birds—owls, ravens, and winged creatures rendered in blue ink with prominent round eyes, creating an oppressive presence. The composition is vertically symmetrical with the figure as axis, surrounded by geological forms that echo the body's contours. The mood is introspective and spiritually weighted, executed in what appears to be oil or tempera with visible brushwork and a symbolist aesthetic.",
+      "mood": "devotional",
+      "subjects": [
+        "robed figure",
+        "birds of prey",
+        "mountain landscape",
+        "spiritual isolation",
+        "celestial witnesses"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/75c5eec4-37dc-405f-86c8-c8f4f5cd842f"
+    },
+    {
+      "description": "A woman in profile stands before an enormous golden elephant, her body decorated with intricate geometric patterns and adorned with jewelry including a circular pectoral ornament and detailed lower garment with blue and black designs. The elephant, rendered in warm ochre and outlined in red, dominates the composition with elaborate decorative elements—ornamental blanket, chain, and ornate tusks—against a bold red background. The woman's scaled or dotted white garment contrasts with the warm palette, creating an intimate yet grand tableau that suggests both reverence and partnership between human and animal.",
+      "mood": "devotional",
+      "subjects": [
+        "woman and elephant",
+        "golden elephant",
+        "jeweled figure",
+        "ornamental tusks",
+        "sacred bond"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/1ba9db01-6659-4dcd-900f-06065c9f68e7"
+    },
+    {
+      "description": "A bearded man in profile wearing an ornate red garment and elaborate gold breastplate turns toward a disembodied black hand raised in gesture or blessing against a cream background. His dark hair is crowned with a decorative crest, and his posture is formal and reverent. The left side of the composition features intricate patterned drapery in deep greens and golds with detailed embroidery, while a small shrine or altar structure with animal figures sits at the base. The palette is warm earth tones—ochre, rust, black—with a craquelured, aged surface suggesting ancient fresco or tempera.",
+      "mood": "devotional",
+      "subjects": [
+        "bearded man in profile",
+        "disembodied hand gesture",
+        "ornate breastplate",
+        "patterned drapery",
+        "ritual shrine"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/f6fde987-b459-4c14-b60b-90e6c263806e"
+    },
+    {
+      "description": "A coiled coral snake (Labilops Polyphyracus) rendered in naturalistic scientific illustration style, its black body twisted in sinuous loops against a pale cream ground. The snake displays distinctive alternating bands of crimson-pink and golden-yellow that stripe the ventral surface in precise rows, creating a striking pattern that contrasts sharply with the glossy black dorsal scales. The head is rendered in profile with a golden eye, and the tail curls upward at the composition's base. The mood is taxonomic and unflinching—a study in deadly beauty rendered with meticulous detail and cool precision.",
+      "mood": "raw",
+      "subjects": [
+        "coral snake",
+        "natural history illustration",
+        "coiled serpent",
+        "scientific study"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": true,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/779a19e6-6d8d-469a-affb-54e8884949c2"
     }
   ],
   "failed": [
@@ -28385,7 +29003,7 @@
       "ts": "2026-06-26T16:13:07.055174"
     }
   ],
-  "total": 1410,
-  "success": 1380,
+  "total": 1440,
+  "success": 1410,
   "version": 2
 }
