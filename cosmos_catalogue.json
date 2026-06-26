@@ -29478,6 +29478,614 @@
         "hero"
       ],
       "url": "https://cdn.cosmos.so/3cba1e81-0451-4eb1-89ec-b47eb840ec9a"
+    },
+    {
+      "description": "A shirtless man with long dark hair and a cowboy hat stands balanced on the back of a dark horse in profile, one arm raised dramatically overhead with fingers spread. He wears Adidas track pants with white stripes and sneakers, creating a striking juxtaposition of athletic and Western iconography. The composition is shot against a plain white wall on gray ground, rendered in stark black and white photography. The mood is defiant and theatrical, capturing a moment of precarious freedom and audacious confidence.",
+      "mood": "fierce",
+      "subjects": [
+        "man on horseback",
+        "horse",
+        "Western performance",
+        "balance and daring"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/ffcde4ce-5979-4ceb-a5af-861aed3a829a"
+    },
+    {
+      "description": "A young herder in a simple wrapped cloth stands beside a long-horned ox in an arid savanna landscape, holding the animal's rope lead. Dust swirls around both figures in the dry heat, obscuring the lower portion of the scene. The photograph is black and white with soft, diffused lighting; the composition is intimate yet vast, with flat grassland stretching to a blurred horizon behind them. The mood is one of quiet labor and patient animal husbandry in harsh conditions.",
+      "mood": "raw",
+      "subjects": [
+        "herder with ox",
+        "long-horned cattle",
+        "dust and arid landscape",
+        "rope and lead",
+        "African savanna"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/c9b2bb60-2ca9-4292-9ea3-f175037be500"
+    },
+    {
+      "description": "A woman in profile crouches beside a bald eagle on a beach, her long dark hair windswept and flowing. She wears a light-colored wrapped garment and a translucent face veil, her body angled protectively toward the large bird. The composition is a black and white photograph with soft, diffused lighting that emphasizes the textures of feathers, fabric, and sand. The ocean and horizon blur behind them, creating an intimate, grounded moment between human and wild creature.",
+      "mood": "tender",
+      "subjects": [
+        "woman and bald eagle",
+        "beach portrait",
+        "human-animal connection",
+        "flowing fabric"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/bd628f35-ca44-404c-b896-8036dbb4d604"
+    },
+    {
+      "description": "A young child in dark clothing reclines across the back of a large horned bovine animal, likely a water buffalo or similar cattle breed, with distinctive curved horns wrapped in decorative bands. The child appears relaxed and drowsy, head resting on the animal's broad back, while a second small figure stands in the distant background. The photograph is rendered in black and white with soft, diffuse lighting that creates a timeless, documentary quality. The composition emphasizes the scale difference between child and beast, shot from a low angle against a pale sky.",
+      "mood": "tender",
+      "subjects": [
+        "child and water buffalo",
+        "horned animal",
+        "pastoral scene",
+        "interspecies bond"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/aa2ff7c5-a272-4adc-9df8-8e56e25299a8"
+    },
+    {
+      "description": "A nude human figure in profile leans against the neck and shoulder of a white horse in a mountainous landscape. The person's arm drapes over the horse's neck in an intimate gesture, their long hair flowing down their back. The photograph is rendered in black and white with soft, diffused lighting that creates a hazy, dreamlike quality. Mountains and mist occupy the background, while the foreground shows bare earth, establishing a wild, natural setting.",
+      "mood": "sensual",
+      "subjects": [
+        "human figure",
+        "white horse",
+        "mountainous landscape",
+        "intimacy"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/535551f7-dcfe-4901-8441-56c180987e75"
+    },
+    {
+      "description": "A woman with long dark hair, shirtless and wearing light-colored pants, stands beside and leans affectionately against a massive American bison in an open grassland. The bison, with prominent curved horns and thick dark fur, dominates the frame while the woman's bare torso creates an intimate contrast against its bulk. The black and white photograph captures a tender moment between human and animal in a vast, minimally detailed landscape under overcast sky, with sparse grass and distant structures barely visible on the horizon.",
+      "mood": "tender",
+      "subjects": [
+        "woman and bison",
+        "intimate contact",
+        "grassland",
+        "animal companionship"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": true,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/01e976b6-b0fb-45cc-92b2-90a4c71f937f"
+    },
+    {
+      "description": "A black horse in ornate ceremonial dress stands in shallow water, its body laden with richly patterned golden and burgundy textile coverings and decorative saddle equipment. A figure in brown tunic and black leggings stands beside the horse holding a white lace cloth or garment. A black crow or raven flies above in the grey sky, wings spread wide. The composition is set against a misty, flat water landscape with overcast light, creating a somber, ritualistic atmosphere with muted earth tones punctuated by gold thread and crimson accents.",
+      "mood": "devotional",
+      "subjects": [
+        "black horse",
+        "ceremonial horse tack",
+        "figure in tunic",
+        "black bird in flight",
+        "shallow water landscape"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/c97b3a28-6e7b-4d56-812e-7e6328ebb520"
+    },
+    {
+      "description": "A central figure with a pale greenish face and red spiral markings stands frontally wearing a dark blue tunic and white striped skirt, rendered in pre-Columbian Mesoamerican style. The figure holds a serpent staff in one hand and wears an elaborate headdress of red feathers radiating outward. Flanking the central figure are two ornate vertical staffs or scepters decorated with gold geometric patterns, circular motifs, and serpentine creatures in red and gold. The composition uses rich embroidered or woven textile techniques in deep indigo, rust red, cream, and gold against a dark background, creating a symmetrical, hierarchical arrangement typical of Aztec or Maya codex art. The mood is formal and ceremonial, suggesting a deity or ruler in regalia.",
+      "mood": "devotional",
+      "subjects": [
+        "Mesoamerican deity",
+        "feathered headdress",
+        "serpent staff",
+        "ceremonial figure",
+        "pre-Columbian art"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/0b402711-7955-4d46-b77c-0a7e37c3c905"
+    },
+    {
+      "description": "A medieval cosmological diagram centered on a figure of a demon or devil with a human torso, goat legs, and horns, holding a trident and gesturing outward against a deep red circular ground. Concentric circles of pale parchment radiate outward in a labyrinthine pattern, divided by perpendicular axes and geometric subdivisions, creating a maze-like structure that fills the entire composition. The figure sits enthroned at the center of this geometric cosmos. Latin inscriptions label the cardinal points: DEDATVS (left), VICARVS (right), with additional text identifying this as a cosmological or astrological diagram. The palette is muted tan parchment with red accents and black line work, creating an austere, didactic medieval aesthetic.",
+      "mood": "cosmic",
+      "subjects": [
+        "demon figure",
+        "concentric circles",
+        "labyrinth pattern",
+        "medieval cosmology",
+        "geometric mandala"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/0679dff5-f1ea-4a54-a728-71f2654c66e4"
+    },
+    {
+      "description": "A complex Mesoamerican deity figure, likely from an Aztec or Maya codex, stands in dynamic pose with multiple arms and elaborately patterned costume in red, gold, blue, and cream. The figure wears an ornate headdress with feathers and holds ritual objects including a curved staff and ceremonial implements. Surrounding the central deity are smaller glyphic animals—jaguars, birds, rabbits—and celestial symbols connected by dotted lines suggesting cosmological relationships. The composition is arranged on aged parchment in a warm ochre-tan palette with black line work, creating a sacred cartographic effect that maps divine and earthly realms.",
+      "mood": "devotional",
+      "subjects": [
+        "Aztec or Maya deity figure",
+        "ceremonial costume with feathers and insignia",
+        "glyphic animals and astronomical markers",
+        "ritual objects and staffs",
+        "codex page with dotted constellation lines"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/dcf25b6e-a541-4f02-8a33-aa934dddeb55"
+    },
+    {
+      "description": "A stone dragon or serpent sculpture carved in relief, shown in profile against a dark background. The creature features an ornate head with spiral decorative elements, an open mouth with visible teeth, scaled body sections with intricate geometric patterning, and clawed feet. The carving exhibits classical architectural ornament style with deep shadows emphasizing the three-dimensional relief work. A scale or measurement device appears on the right edge. The monochromatic lighting and grayscale palette create a stark, archaeological documentation quality.",
+      "mood": "architectural",
+      "subjects": [
+        "carved dragon",
+        "stone relief sculpture",
+        "architectural ornament",
+        "scaled creature"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/bc4c6705-75f6-405e-aca2-64acf2a3392d"
+    },
+    {
+      "description": "A winged figure with the head of a falcon (likely the Egyptian deity Horus) dominates the composition, rendered in profile facing left with outstretched wings in shades of green, gold, and rust. The figure wears a patterned tunic and holds a ceremonial staff or scepter. Above and to the right are Egyptian hieroglyphic symbols including cartouches, an eye of Horus, and birds. At top left is a reddish-brown sacred vessel. The style is a scholarly recreation of ancient Egyptian art on aged cream paper, with a warm, dust-toned palette and formal, symmetrical arrangement suggesting ritual or funerary documentation.",
+      "mood": "devotional",
+      "subjects": [
+        "winged falcon deity",
+        "Egyptian hieroglyphics",
+        "sacred vessel",
+        "ceremonial staff",
+        "Horus"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/32baa2af-ccf4-4dc4-8cdf-e372a7b027da"
+    },
+    {
+      "description": "A golden Egyptian Ankh cross at center, surrounded by four interlocking circles in silver and grey against a deep indigo starfield background. The Eye of Horus (Wedjat eye) floats above the Ankh's loop, rendered in gold with a mystical star. Below the cross sit eight alchemical and astrological symbols in gold, including the Sun, planetary signs, and geometric forms. The composition is symmetrical and ritualistic, with a textured, aged appearance suggesting ancient papyrus or celestial parchment.",
+      "mood": "devotional",
+      "subjects": [
+        "Ankh cross",
+        "Eye of Horus",
+        "alchemical symbols",
+        "sacred geometry",
+        "starfield"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": false,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/5721eaa1-6e29-41b4-9063-23c773d40c05"
+    },
+    {
+      "description": "An ancient Egyptian wall relief depicts a bennu bird (sacred heron) with an elongated neck and distinctive head plumage, rendered in outline on a pale cream ground. To the right stands a figure in deep rust-red, shown in profile wearing traditional Egyptian garments with arms at their sides in formal posture. The composition is framed by a decorative hieroglyphic border at top featuring geometric patterns in ochre and burgundy. The palette is warm and earthy—cream, terracotta, and gold-brown—with the linear precision of hieroglyphic art emphasizing stillness and ritual order.",
+      "mood": "devotional",
+      "subjects": [
+        "bennu bird",
+        "Egyptian figure",
+        "hieroglyphic border",
+        "ancient relief"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/942de1a1-d625-414f-a604-bb9440275fdf"
+    },
+    {
+      "description": "A black ibis figure with an anthropomorphic body stands in profile wearing a white draped garment, holding a staff topped with a crescent moon and solar disc in one hand and a serpent-entwined rod (caduceus) in the other. The figure has a distinctive long curved beak with red interior and a golden ornamental halo behind the head. The composition features ornate architectural elements—a coral-red fluted column and decorative border—against a deep starry night sky. The palette combines rich gold, cream, black, and deep blue with jewel-toned accents, creating an ancient Egyptian aesthetic with celestial and regal undertones.",
+      "mood": "devotional",
+      "subjects": [
+        "ibis figure",
+        "Egyptian deity",
+        "celestial symbolism",
+        "sacred regalia",
+        "night sky",
+        "architectural ornament"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/4a0b9a69-17f8-4509-865c-97b9be9bba55"
+    },
+    {
+      "description": "An ancient Egyptian relief carving depicts Sebek, the crocodile deity, in profile facing left. The figure has a crocodile's head with distinctive ridged jaw and snout, topped with a tall feathered crown. The body is human-form, rendered in red ochre with blue-green lapis lazuli coloring on the lower torso and legs, adorned with golden hieroglyphic patterns and striped textile details. Hieroglyphic cartouches and symbols frame the composition on a pale limestone ground. The lighting is warm and even, emphasizing the carved relief's dimensional surface and the pigment's rich mineral hues.",
+      "mood": "devotional",
+      "subjects": [
+        "Sebek the crocodile god",
+        "Egyptian relief carving",
+        "hieroglyphic inscription",
+        "deity portrait"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/6e3bbc42-98c6-4df7-a604-bddb6dafefc0"
+    },
+    {
+      "description": "Anubis, the Egyptian jackal-headed god, rendered in profile facing left with his characteristic black canine head and pointed ears. He wears a broad collar of blue and gold patterning and a white pleated linen kilt adorned with gold dots, held by a gold belt. His human arms are positioned at his sides in a formal, frontal pose. The figure is painted against a cream-colored circular disk (likely representing the sun) framed by two upright black rectangular forms, with rust-red horizontal bars at the base. The palette is dominated by black, gold, cream, turquoise, and rust tones. The mood is formal and hieratic, characteristic of ancient Egyptian funerary art.",
+      "mood": "devotional",
+      "subjects": [
+        "Anubis",
+        "Egyptian god",
+        "jackal-headed deity",
+        "funerary imagery",
+        "gold leaf"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/7d627fd4-a904-4c4f-a110-2e08e5dbdc3e"
+    },
+    {
+      "description": "An ancient Mesoamerican jade mask depicting a jaguar or feline deity, carved from green stone with inlaid orange and rust-colored clay or cinnabar details. The stylized face features prominent spiral eyes with intense, commanding gaze, a pronounced nose, and an open mouth with visible teeth. Elaborate headdress adorns the crown with a feathered or leaf-like crest, while large circular ear ornaments with concentric spiral patterns flank the sides. The mask has a dark, shadowed background that emphasizes the weathered patina and archaeological gravitas of the artifact.",
+      "mood": "fierce",
+      "subjects": [
+        "jade mask",
+        "jaguar deity",
+        "Mesoamerican artifact",
+        "feathered headdress",
+        "spiral eyes",
+        "ceremonial carving"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/07b7e695-3aa5-4512-9583-1c4c0d2abe71"
+    },
+    {
+      "description": "The Virgin Mary depicted with her eyes closed and head slightly bowed in prayer, wearing a white veil and dark blue robe. Her hands are raised in an open, supplicating gesture. A luminous sacred heart with a cross and thorns is depicted on her chest, glowing with warm golden and rose tones. Behind her radiates a golden halo of light with radiating streaks and stars, set against a soft, muted palette of grays, taupes, and soft blues. The painterly style is expressive and devotional, with visible brushstrokes creating an ethereal, reverent atmosphere.",
+      "mood": "devotional",
+      "subjects": [
+        "Virgin Mary",
+        "sacred heart",
+        "religious icon",
+        "prayer pose",
+        "golden halo",
+        "spiritual radiance"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/44394aaf-fe70-4c0e-8831-94da8ae960b0"
+    },
+    {
+      "description": "Three robed figures with their heads replaced by large red spiral shells, standing in a symmetrical composition on a textured concrete surface. The figures wear flowing gray garments with detailed linear patterns, their hands holding thin strings that extend downward. A red circular object hovers at the center of their arrangement, with a small brown rectangle below it. The palette is muted—whites, grays, and terra cotta reds against a weathered, speckled concrete background. The mood is ritualistic and surreal, suggesting ceremony or collective consciousness.",
+      "mood": "devotional",
+      "subjects": [
+        "three robed figures",
+        "spiral shells",
+        "ritual arrangement",
+        "concrete wall",
+        "symbolic geometry"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/85436e87-18a1-446c-959f-b56a17a15795"
+    },
+    {
+      "description": "Saraswati, the Hindu goddess of music and learning, stands on a white lotus flower wearing an ornate blue and cream silk dress adorned with gold jewelry and a golden crown. She holds a stringed veena musical instrument in her right hand and a lotus flower in her left, her posture graceful and frontal. She is surrounded by a lush composition of white and pink lotus flowers with broad green lily pad leaves in a pond setting. The painting employs a soft, warm palette of golds, greens, and blues with a textured golden-yellow background, creating an ethereal and devotional atmosphere.",
+      "mood": "devotional",
+      "subjects": [
+        "Saraswati goddess",
+        "veena instrument",
+        "lotus flowers",
+        "pond",
+        "sacred music"
+      ],
+      "is_devotional": true,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/13482011-1201-47fa-9a72-12c9f7281f95"
+    },
+    {
+      "description": "Ganesha, the Hindu deity with an elephant head and human body, stands in three-quarter view on a circular base. His portly torso is rendered with careful musculature, and he holds a curved tusk and ritual vessel in his hands. His hair is elaborately coiffed with a crown or ornament atop his head. The figure is depicted in a classical stippled engraving technique in black ink on aged tan paper, creating soft modeling and a timeless, reverent quality. The composition is frontal and monumental despite the modest scale.",
+      "mood": "devotional",
+      "subjects": [
+        "Ganesha",
+        "elephant-headed deity",
+        "Hindu iconography",
+        "engraved sculpture study",
+        "ritual vessel and tusk"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/a924174b-6f7e-4c49-9562-5b7d4df53f02"
+    },
+    {
+      "description": "Kali, the Hindu goddess of destruction and liberation, depicted with dark blue skin, a fierce expression with tongue extended, and a crown of severed heads rendered in gold ornament. Her body is adorned with a garland of red demon heads across her chest and waist, multiple arms holding ritual objects including a curved sword and a skull bowl, and she wears ornate gold earrings and jewelry. The composition is frontal and commanding against a bright turquoise background, with bare branching forms in green and brown at the base, and scattered red poppies or pomegranates across her grey robes. The illustration combines traditional Indian religious iconography with a contemporary decorative art style in rich reds, golds, blues, and earth tones.",
+      "mood": "fierce",
+      "subjects": [
+        "Kali",
+        "Hindu goddess",
+        "severed heads garland",
+        "demon faces",
+        "ritual weapons",
+        "ornamental crown",
+        "destructive power"
+      ],
+      "is_devotional": true,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/5994e3b5-f5c0-46d2-969f-b84169ed48bc"
+    },
+    {
+      "description": "Lakshmi, the Hindu goddess of wealth and prosperity, sits in a dynamic dancing pose on a pink lotus flower floating in water. She wears a rich red silk draped garment with gold embroidery and jewelry, her dark hair adorned with a decorative headpiece. Her four arms are raised in blessing and offering gestures, holding flowers in two hands while displaying mudras with the others. Mountains and water compose the serene background, with elephants pouring water from above and lotus flowers scattered in the foreground. The painting uses warm ochres, cool blues, and vibrant reds, creating a devotional scene suffused with spiritual grace and divine abundance.",
+      "mood": "devotional",
+      "subjects": [
+        "Lakshmi",
+        "lotus flower",
+        "Hindu goddess",
+        "water",
+        "mountains",
+        "elephants"
+      ],
+      "is_devotional": true,
+      "is_botanical": true,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/02423412-5ac3-4630-a745-f6f2df6d952d"
+    },
+    {
+      "description": "Kali, the Hindu goddess of transformation and destruction, depicted in deep blue skin with a fierce expression and white whiskers. She wears a garland of pearls, ornate jewelry, and a skirt of severed arms. Her chest displays a central yantra containing a deity figure rendered in gold, red, and cream tones. She sits in a kneeling pose with one hand raised, her tail curving dramatically behind her head. The composition is symmetrical against a warm, aged parchment background with visible wear and patina, creating an intimate devotional intensity.",
+      "mood": "devotional",
+      "subjects": [
+        "Kali",
+        "Hindu deity",
+        "sacred yantra",
+        "pearl garland",
+        "transformation goddess"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/ca2873dd-8e32-45c2-8a73-54bd3323ca32"
+    },
+    {
+      "description": "Durga, the ten-armed Hindu goddess, rides a fierce orange and white lion across a green landscape. She wears a golden crown, jeweled ornaments, and a pink skirt, holding an array of weapons including a curved sword, trident, discus, bow, and thunderbolt. Her expression is fierce and commanding, with a golden halo radiating behind her head. The composition is symmetrical and centered, rendered in the traditional Rajasthani miniature painting style with jewel-toned pigments, intricate gold detailing, and a soft blue-clouded sky above the solid green ground.",
+      "mood": "fierce",
+      "subjects": [
+        "Durga",
+        "lion mount",
+        "Hindu goddess",
+        "ten arms",
+        "weapons and ritual objects"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/00430720-dbd2-4cf3-9b65-bda3fcb904fc"
+    },
+    {
+      "description": "Durga, the Hindu goddess of divine power, sits enthroned on a lion in a dynamic frontal pose, holding multiple weapons including a trident, sword, and curved scimitar across her four arms. She wears a jeweled crown, red and gold silk garments, and golden ornaments, her expression serene and commanding. The composition is set against warm orange and deep red flames, with offerings and ritual fire visible at the base, creating an intensely devotional atmosphere with rich jewel-toned lighting that emphasizes her divine radiance and protective power.",
+      "mood": "devotional",
+      "subjects": [
+        "Durga",
+        "lion mount",
+        "trident",
+        "sacred fire",
+        "Hindu goddess"
+      ],
+      "is_devotional": true,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/812d9fec-837d-460d-9aae-c206b4faf853"
+    },
+    {
+      "description": "A female ballet dancer en pointe in a classical tutu, arm raised gracefully above her head, body elongated in an arabesque or similar elevated pose. She is rendered in sepia tones and soft focus, creating a dreamlike quality. Silhouetted demonic or monstrous figures loom in the darker foreground below her, their forms shadowy and indistinct. The composition uses dramatic lighting that bathes the dancer in an ethereal glow against a murky, atmospheric background, creating tension between the ethereal figure above and the dark forces below.",
+      "mood": "ethereal",
+      "subjects": [
+        "ballet dancer",
+        "classical tutu",
+        "demonic silhouettes",
+        "sepia photograph",
+        "celestial elevation"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": true,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/c21c6307-21bb-45f8-8d0a-ea5d371e4826"
+    },
+    {
+      "description": "A large whale surfaces in calm waters, its massive head and open mouth dominating the composition in pale turquoise tones. In the foreground, a woman in dark Victorian dress with a white collar stands in a small rowboat with two children, gazing at the whale. Three wooden posts protrude from the water in the middle distance, with pink flying creatures in a purple-grey sky above. The palette is muted—cool blues, purples, and soft turquoise—creating a dreamlike, melancholic atmosphere that balances wonder with isolation.",
+      "mood": "contemplative",
+      "subjects": [
+        "whale surfacing",
+        "Victorian woman",
+        "children in rowboat",
+        "open water",
+        "wooden posts",
+        "flying creatures"
+      ],
+      "is_devotional": false,
+      "is_botanical": false,
+      "is_cosmic": false,
+      "is_figure": true,
+      "is_sensual": false,
+      "suitable_for": [
+        "closing",
+        "hero"
+      ],
+      "url": "https://cdn.cosmos.so/images/96d4f8c7-cdca-46c7-aab1-04a04ca97af7"
     }
   ],
   "failed": [
@@ -29614,9 +30222,14 @@
       "url": "https://cdn.cosmos.so/991216b0-de6a-4cbd-92c4-b5164935f53b",
       "reason": "HTTP 400",
       "ts": "2026-06-26T16:13:07.055174"
+    },
+    {
+      "url": "https://cdn.cosmos.so/f943ef22-adb1-4b76-82aa-a5c5f006b5b0",
+      "reason": "HTTP 400",
+      "ts": "2026-06-26T16:20:48.331196"
     }
   ],
-  "total": 1470,
-  "success": 1440,
+  "total": 1500,
+  "success": 1469,
   "version": 2
 }
