@@ -23,6 +23,13 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests
+        
+      - name: Debug secret presence
+        env:
+          DANIEL_EMAIL: ${{ secrets.DANIEL_EMAIL }}
+        run: |
+          echo "DANIEL_EMAIL is set: ${{ secrets.DANIEL_EMAIL != '' }}"
+          echo "DANIEL_EMAIL length: ${#DANIEL_EMAIL}"
 
       - name: Run horoscope generator
         env:
