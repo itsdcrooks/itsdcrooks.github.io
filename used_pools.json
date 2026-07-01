@@ -1,7 +1,8 @@
 {
   "hero": [
     "https://cdn.cosmos.so/f42e0cca-09d7-4aaa-95c8-3cfb6e0dcbb1",
-    "https://cdn.cosmos.so/8ed82f97-c466-4b74-ac85-b237d410af4c"
+    "https://cdn.cosmos.so/8ed82f97-c466-4b74-ac85-b237d410af4c",
+    "https://cdn.cosmos.so/4e6daaa0-2d69-426b-8601-75af76fb3b99"
   ],
   "aura": [
     "https://cdn.cosmos.so/508d216d-d3b4-4b25-bbe7-ac6a073a0b82",
@@ -9,7 +10,10 @@
     "https://cdn.cosmos.so/c63a2844-18c2-4543-a20c-da77bba60cb2",
     "https://cdn.cosmos.so/4fc227e0-2535-4a87-87d8-845bc9b6e728",
     "https://cdn.cosmos.so/1b651894-b9da-4b60-abfd-c24283788c03",
-    "https://cdn.cosmos.so/e96de4cb-e7ad-4fcb-9155-1e3c9a842350"
+    "https://cdn.cosmos.so/e96de4cb-e7ad-4fcb-9155-1e3c9a842350",
+    "https://cdn.cosmos.so/cdeef613-aa86-4147-899c-fad75f6ab5ae",
+    "https://cdn.cosmos.so/8ed82f97-c466-4b74-ac85-b237d410af4c",
+    "https://cdn.cosmos.so/cf8fe412-2940-44a7-9fd3-7c2a7067f200"
   ],
   "eros": [
     "https://cdn.cosmos.so/9a47cbe1-12ff-43cd-8d78-c34e97c5fdc0",
@@ -17,7 +21,10 @@
     "https://cdn.cosmos.so/f88a3a5d-149a-4861-926d-f8c73bd28177",
     "https://cdn.cosmos.so/80ff163b-8308-4bec-9b5b-cf37384fed80",
     "https://cdn.cosmos.so/ab279c56-f50f-4424-bf2f-a276663bb31a",
-    "https://cdn.cosmos.so/f1ae0173-2bc6-4815-acf5-d287c949bf3d"
+    "https://cdn.cosmos.so/f1ae0173-2bc6-4815-acf5-d287c949bf3d",
+    "https://cdn.cosmos.so/9588c93f-5287-490a-8629-89464561b707",
+    "https://cdn.cosmos.so/519a9b70-6671-422a-93a7-2bbdcef6b15c",
+    "https://cdn.cosmos.so/b346fe7b-c161-4397-98ed-2fe495cd1949"
   ],
   "vedic": [
     "https://cdn.cosmos.so/10679d08-31b2-40af-b2b9-30be035979e9",
@@ -25,10 +32,14 @@
     "https://cdn.cosmos.so/4ae269a3-c273-4563-9fc3-d46089e17b37",
     "https://cdn.cosmos.so/9798efac-1117-43f6-95ad-75d1110b6783",
     "https://cdn.cosmos.so/f56874c4-cc5d-475c-97c3-d576d54e9243",
-    "https://cdn.cosmos.so/c94bdb67-d2c6-4b46-911a-18a7d7282201"
+    "https://cdn.cosmos.so/c94bdb67-d2c6-4b46-911a-18a7d7282201",
+    "https://cdn.cosmos.so/a515aa05-0068-421f-b889-f4547e87f3f4",
+    "https://cdn.cosmos.so/7df4667f-94a5-4dfe-b780-9d2f41d8a543",
+    "https://cdn.cosmos.so/ed247cc9-89b8-460a-87e6-1a3a5a3e2047"
   ],
   "totem": [
     "https://cdn.cosmos.so/93b8a7cd-dfb3-470b-81ca-0b1693cad91a",
-    "https://cdn.cosmos.so/3d490481-285a-4ed0-8f8c-d3ff643e5570"
+    "https://cdn.cosmos.so/3d490481-285a-4ed0-8f8c-d3ff643e5570",
+    "https://cdn.cosmos.so/93b094a3-08f3-4fb7-ba02-b42a4fc5c540"
   ]
 }
